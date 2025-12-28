@@ -1,9 +1,28 @@
 {
-  "Les temps verbaux": {
-    "Le passé composé": "\"Être\" et \"Avoir\" sont utilisés comme auxiliaires pour former le passé composé.",
-    "Le subjonctif": "Le subjonctif présent se forme à partir de la racine du radical du verbe + terminaisons spécifiques."
-  },
-  "Les accords": {
-    "Accord sujet-verbe": "Avec \"plus d'un\", le verbe est généralement au singulier, sauf cas spécifiques."
+  "Conjugaison": {
+    "Passé composé": {
+      "Structure de base": "Auxiliaire (haben ou sein) + participe passé",
+      "Participe passé des verbes réguliers": "ge- + radical + -t\n\nlernen → gelernt\nmachen → gemacht\nspielen → gespielt",
+      "Participe passé des verbes irréguliers": "ge- + radical modifié + -en\n\ngehen → gegangen\ntrinken → getrunken\nschreiben → geschrieben\n\nLe changement de voyelle doit être appris.",
+      "Participe passé des verbes mixtes": "ge- + radical modifié + -t\n\nbringen → gebracht\ndenken → gedacht\nkennen → gekannt\n\nTerminaison en -t comme un régulier, mais voyelle changée comme un irrégulier.",
+      "Participe passé en fonction des terminaisons": "Quand le radical finit par -t, -d, ou -m / -n après une consonne : ge- + radical + -et\n\narbeiten → gearbeitet\nenden → geendet\natmen → geatmet\n\nLe -e- sert à la prononciation.\nOn ajoute -e- avant -t si le radical se termine par : -tm, -dn, -fn, -gn, -mn, -tn.",
+      "Participe passé des verbes à particule séparable": "particule + ge- + radical + (t / en)\n\nabholen → abgeholt\nanfangen → angefangen\nmitkommen → mitgekommen\n\nge- se place entre la particule et le verbe.",
+      "Participe passé des verbes à particule inséparable": "PAS de ge-\n\nbesuchen → besucht\nverstehen → verstanden\nerzählen → erzählt\n\nPréfixes inséparables : be-, ver-, er-, ent-, zer-, emp-, miss-",
+      "Participe passé des verbes en -ieren": "PAS de ge- + radical + -t\n\nstudieren → studiert\ntelefonieren → telefoniert\nreparieren → repariert\n\nToujours -t, jamais ge-.",
+      "Choix de l’auxiliaire": "1. Est-ce que le sujet change de lieu (déplacement) ou d’état ? Si oui → sein.\n2. Y a-t-il un objet direct ? Si oui → haben\n3. Si aucun des deux → souvent haben (activité).\n\nfahren + sein (déplacement d’un point A à un point B)\nex : Ich bin nach Berlin gefahren. Je suis allé à Berlin\n\nfahren + haben (activité / conduite)\nex : Er hat schnell gefahren. Il a roulé vite.\n\nfahren + objet direct → toujours haben\nex : Sie hat den Bus gefahren. Elle conduisait le bus."
+    },
+    "Présent": {
+      "Structure de base": "radical + terminaison\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
+      "Verbes réguliers": "Aucun changement de radical, juste les terminaisons.\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
+      "Verbes irréguliers": "Changement de voyelle UNIQUEMENT aux personnes : du / er / sie / es. \na → ä\tfahren → fährst\ne → i\tgeben → gibst\ne → ie\tlesen → liest\nich / wir / ihr / sie = PAS de changement",
+      "Suppression du -s  en fonction des terminaisons": "Suppression du -s à la 2ème personne du sg quand le radical se termine par :\n-s\n-ß\n-x\n-z\n👉 du = -t (pas -st)\n\ndu heißt\ndu tanzt\ndu sitzt",
+      "Ajout d’un -e-": "Quand le radical se termine par :\n-t\n-d\n-m / -n après une consonne\n👉 On insère -e- avant la terminaison.\n\narbeiten → du arbeitest\nenden → du endest\natmen → du atmest\n\nRègle phonétique, pas orthographique.",
+      "Verbes en -eln et -ern": "Verbes en -eln : le -e- du radical tombe à ich => -eln → -le\nVerbes en -ern : réguliers, \naucun changement\n\nhandeln => ich handle, du handelst\nändern => ich ändere, du änderst",
+      "Verbes à particule séparable": "le verbe se conjugue normalement, la particule va en fin de phrase\n\nabholen : ich hole dich ab",
+      "Verbes à particule inséparable": "aucune séparation, conjugaison normale\n\nverstehen : ich verstehe",
+      "Verbes réfléchis": "Le verbe se conjugue normalement + pronom réfléchi\nich\t\tmich\ndu\t\tdich\ner/sie/es\tsich\nwir\t\tuns\nihr\t\teuch\nsie/Sie\t\tsich\n\nich freue mich\ndu verletzst dich",
+      "Verbes totalement irréguliers (à apprendre par cœur)": "🔹 sein\nich bin\ndu bist\ner ist\nwir sind\nihr seid\nsie sind\n\n🔹 haben\nich habe\ndu hast\ner hat\nwir haben\nihr habt\nsie haben\n\n🔹 werden\nich werde\ndu wirst\ner wird\nwir werden\nihr werdet\nsie werden",
+      "Verbes de modalité": "irréguliers, sans -e- à ich / er\n\nkönnen\nich kann\ndu kannst\ner kann\nwir können"
+    }
   }
 }
