@@ -23,6 +23,36 @@
       "Verbes réfléchis": "Le verbe se conjugue normalement + pronom réfléchi\nich\t\tmich\ndu\t\tdich\ner/sie/es\tsich\nwir\t\tuns\nihr\t\teuch\nsie/Sie\t\tsich\n\nich freue mich\ndu verletzst dich",
       "Verbes totalement irréguliers (à apprendre par cœur)": "🔹 sein\nich bin\ndu bist\ner ist\nwir sind\nihr seid\nsie sind\n\n🔹 haben\nich habe\ndu hast\ner hat\nwir haben\nihr habt\nsie haben\n\n🔹 werden\nich werde\ndu wirst\ner wird\nwir werden\nihr werdet\nsie werden",
       "Verbes de modalité": "irréguliers, sans -e- à ich / er\n\nkönnen\nich kann\ndu kannst\ner kann\nwir können"
+    },
+    "Prétérit": {
+      "Verbes réguliers": "radical du prétérit + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\nlernen → ich lernte\nspielen → ich spielte\nmachen → ich machte",
+      "Verbes irréguliers": "Changement de voyelle à toutes les personnes. \nPAS de -te. \nPas de terminaison avec ich / er.\nich\t\tØ\ndu\t\t-st\ner/sie/es\tØ\nwir\t\t-en\nihr\t\t-t\nsie/Sie\t\t-en\n\ngehen → ich ging\nsehen → ich sah\nkommen → ich kam\nschreiben → ich schrieb",
+      "Verbes mixtes": "Verbes faibles + changement de voyelle\nradical modifié + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\ndenken → ich dachte\nbringen → ich brachte\nkennen → ich kannte\nwissen → ich wusste\nnennen → ich nannte",
+      "Selon terminaison": "Si le radical finit par :\n-t\n-d\n-m / -n après consonne\n➡️ on ajoute -e- avant -te\n\narbeiten → ich arbeitete\nenden → ich endete\natmen → ich atmete",
+      "Verbes à particule séparable": "Le préfixe va à la fin de la phrase.\n\nankommen → ich kam an\nabholen → ich holte ab",
+      "Verbes à particule inséparable": "comportement normal\n\nverstehen → ich verstand\nbesuchen → ich besuchte"
+    }
+  },
+  "A trouver": {
+    "Nombre ordinaux": {
+      "Règle générale de composition": "- jusqu’à 19 : nombre + -te\n- à partir de 20 : nombre + -ste\n\nvier → vierte\ndreißig → dreißigste",
+      "Exceptions": "- eins → erste\n- drei → dritte\n- sieben → siebte (perte du -en)\n- acht → achte (perte du -t)",
+      "Composition des grands nombres": "Pour former un nombre ordinal composé, on ne transforme que le DERNIER élément du nombre cardinal. Tout le reste reste inchangé.\n\neinundzwanzig → einundzwanzigste",
+      "Déclinaison des ordinaux": "Les ordinaux se déclinent comme des adjectifs\n\nam ersten Mai",
+      "Date du jour": "Heute ist der + ordinal (NOMINATIF)\n\nHeute ist der achtundzwanzigste Dezember.",
+      "Date d'un rendez-vous": "am + ordinal +n (DATIF)\n\nDer Termin ist am dritten Januar."
+    },
+    "Les cas": {
+      "Nominatif": "Il correspond à la fonction « sujet » et « attribut du sujet »\n\nDer Mann ist groß.\nDie Dame ist meine Schwester.",
+      "Accusatif": "Il correspond à la fonction « Complément d'Objet Direct » en français.\n\nMein Vater hat einen Bruder.",
+      "Datif": "Il correspond à la fonction « Complément d'Objet Indirect » en français.\n\nIch gebe meinem Bruder ein Geschenk.\n\nNoter qu'en allemand, si on se trouve en présence d'un COD et d'un COI, on place souvent le COI en premier suivi du COD.",
+      "Génitif": "Il correspond à la fonction « Complément du nom » en français.\n\nDer Bruder meines Vaters ist mein Onkel.\n\nNoter qu'en allemand, l'utilisation du génitif implique d'ajouter « (e)s » aux noms communs masculins ou neutres comme à « Vaters » dans l'exemple."
+    },
+    "Les déclinaisons": {
+      "Der": "<img src=\"Déclinaison.png\">",
+      "Die (féminin": "<img src=\"Déclinaison.png\">",
+      "Das": "<img src=\"Déclinaison.png\">",
+      "Die (pluriel)": "<img src=\"Déclinaison.png\">"
     }
   }
 }
