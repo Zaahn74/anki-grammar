@@ -1,84 +1,97 @@
 {
   "Conjugaison": {
-    "PassÃ© composÃ©": {
-      "Structure de base": "Auxiliaire (haben ou sein) + participe passÃ©",
-      "Participe passÃ© des verbes rÃ©guliers": "ge- + radical + -t\n\nlernen â†’ gelernt\nmachen â†’ gemacht\nspielen â†’ gespielt",
-      "Participe passÃ© des verbes irrÃ©guliers": "ge- + radical modifiÃ© + -en\n\ngehen â†’ gegangen\ntrinken â†’ getrunken\nschreiben â†’ geschrieben\n\nLe changement de voyelle doit Ãªtre appris.",
-      "Participe passÃ© des verbes mixtes": "ge- + radical modifiÃ© + -t\n\nbringen â†’ gebracht\ndenken â†’ gedacht\nkennen â†’ gekannt\n\nTerminaison en -t comme un rÃ©gulier, mais voyelle changÃ©e comme un irrÃ©gulier.",
-      "Participe passÃ© en fonction des terminaisons": "Quand le radical finit par -t, -d, ou -m / -n aprÃ¨s une consonne : ge- + radical + -et\n\narbeiten â†’ gearbeitet\nenden â†’ geendet\natmen â†’ geatmet\n\nLe -e- sert Ã  la prononciation.\nOn ajoute -e- avant -t si le radical se termine par : -tm, -dn, -fn, -gn, -mn, -tn.",
-      "Participe passÃ© des verbes Ã  particule sÃ©parable": "particule + ge- + radical + (t / en)\n\nabholen â†’ abgeholt\nanfangen â†’ angefangen\nmitkommen â†’ mitgekommen\n\nge- se place entre la particule et le verbe.",
-      "Participe passÃ© des verbes Ã  particule insÃ©parable": "PAS de ge-\n\nbesuchen â†’ besucht\nverstehen â†’ verstanden\nerzÃ¤hlen â†’ erzÃ¤hlt\n\nPrÃ©fixes insÃ©parables : be-, ver-, er-, ent-, zer-, emp-, miss-",
-      "Participe passÃ© des verbes en -ieren": "PAS de ge- + radical + -t\n\nstudieren â†’ studiert\ntelefonieren â†’ telefoniert\nreparieren â†’ repariert\n\nToujours -t, jamais ge-.",
-      "Choix de lâ€™auxiliaire": "1. Est-ce que le sujet change de lieu (dÃ©placement) ou dâ€™Ã©tat ? Si oui â†’ sein.\n2. Y a-t-il un objet direct ? Si oui â†’ haben\n3. Si aucun des deux â†’ souvent haben (activitÃ©).\n\nfahren + sein (dÃ©placement dâ€™un point A Ã  un point B)\nex : Ich bin nach Berlin gefahren. Je suis allÃ© Ã  Berlin\n\nfahren + haben (activitÃ© / conduite)\nex : Er hat schnell gefahren. Il a roulÃ© vite.\n\nfahren + objet direct â†’ toujours haben\nex : Sie hat den Bus gefahren. Elle conduisait le bus."
+    "Passé composé": {
+      "Structure de base": "Auxiliaire (haben ou sein) + participe passé",
+      "Participe passé des verbes réguliers": "ge- + radical + -t\n\nlernen → gelernt\nmachen → gemacht\nspielen → gespielt",
+      "Participe passé des verbes irréguliers": "ge- + radical modifié + -en\n\ngehen → gegangen\ntrinken → getrunken\nschreiben → geschrieben\n\nLe changement de voyelle doit être appris.",
+      "Participe passé des verbes mixtes": "ge- + radical modifié + -t\n\nbringen → gebracht\ndenken → gedacht\nkennen → gekannt\n\nTerminaison en -t comme un régulier, mais voyelle changée comme un irrégulier.",
+      "Participe passé en fonction des terminaisons": "Quand le radical finit par -t, -d, ou -m / -n après une consonne : ge- + radical + -et\n\narbeiten → gearbeitet\nenden → geendet\natmen → geatmet\n\nLe -e- sert à la prononciation.\nOn ajoute -e- avant -t si le radical se termine par : -tm, -dn, -fn, -gn, -mn, -tn.",
+      "Participe passé des verbes à particule séparable": "particule + ge- + radical + (t / en)\n\nabholen → abgeholt\nanfangen → angefangen\nmitkommen → mitgekommen\n\nge- se place entre la particule et le verbe.",
+      "Participe passé des verbes à particule inséparable": "PAS de ge-\n\nbesuchen → besucht\nverstehen → verstanden\nerzählen → erzählt\n\nPréfixes inséparables : be-, ver-, er-, ent-, zer-, emp-, miss-",
+      "Participe passé des verbes en -ieren": "PAS de ge- + radical + -t\n\nstudieren → studiert\ntelefonieren → telefoniert\nreparieren → repariert\n\nToujours -t, jamais ge-.",
+      "Choix de l’auxiliaire": "1. Est-ce que le sujet change de lieu (déplacement) ou d’état ? Si oui → sein.\n2. Y a-t-il un objet direct ? Si oui → haben\n3. Si aucun des deux → souvent haben (activité).\n\nfahren + sein (déplacement d’un point A à un point B)\nex : Ich bin nach Berlin gefahren. Je suis allé à Berlin\n\nfahren + haben (activité / conduite)\nex : Er hat schnell gefahren. Il a roulé vite.\n\nfahren + objet direct → toujours haben\nex : Sie hat den Bus gefahren. Elle conduisait le bus."
     },
-    "PrÃ©sent": {
+    "Présent": {
       "Structure de base": "radical + terminaison\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
-      "Verbes rÃ©guliers": "Aucun changement de radical, juste les terminaisons.\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
-      "Verbes irrÃ©guliers": "Changement de voyelle UNIQUEMENT aux personnes : du / er / sie / es. \na â†’ Ã¤\tfahren â†’ fÃ¤hrst\ne â†’ i\tgeben â†’ gibst\ne â†’ ie\tlesen â†’ liest\nich / wir / ihr / sie = PAS de changement",
-      "Suppression du -s  en fonction des terminaisons": "Suppression du -s Ã  la 2Ã¨me personne du sg quand le radical se termine par :\n-s\n-ÃŸ\n-x\n-z\nðŸ‘‰ du = -t (pas -st)\n\ndu heiÃŸt\ndu tanzt\ndu sitzt",
-      "Ajout dâ€™un -e-": "Au prÃ©sent (et Ã  l'impÃ©ratif), les verbes dont le radical se termine par -t, -d ou -m / -n prÃ©cÃ©dÃ© dâ€™une autre consonne, prennent un -e- dâ€™appui devant les terminaisons en -st et -t.\n\narbeiten â†’ du arbeitest, er arbeitet, ihr arbeitet\nreden â†’ du redest, er redet, ihr redet\natmen â†’ du atmest, er atmet, ihr atmet\nÃ¶ffnen â†’ du Ã¶ffnest, er Ã¶ffnet, ihr Ã¶ffnet\n\nRÃ¨gle phonÃ©tique, pas orthographique.\nMÃªme principe pour le prÃ©tÃ©rit mais pas tout Ã  fait.",
-      "Verbes en -eln et -ern": "Verbes en -eln : le -e- du radical tombe Ã  ich => -eln â†’ -le\nVerbes en -ern : rÃ©guliers, \naucun changement\n\nhandeln => ich handle, du handelst\nÃ¤ndern => ich Ã¤ndere, du Ã¤nderst",
-      "Verbes Ã  particule sÃ©parable": "le verbe se conjugue normalement, la particule va en fin de phrase\n\nabholen : ich hole dich ab",
-      "Verbes Ã  particule insÃ©parable": "aucune sÃ©paration, conjugaison normale\n\nverstehen : ich verstehe",
-      "Verbes totalement irrÃ©guliers (Ã  apprendre par cÅ“ur)": "ðŸ”¹ sein\nich bin\ndu bist\ner ist\nwir sind\nihr seid\nsie sind\n\nðŸ”¹ haben\nich habe\ndu hast\ner hat\nwir haben\nihr habt\nsie haben\n\nðŸ”¹ werden\nich werde\ndu wirst\ner wird\nwir werden\nihr werdet\nsie werden",
-      "Verbes de modalitÃ©": "irrÃ©guliers, sans -e- Ã  ich / er\n\nkÃ¶nnen\nich kann\ndu kannst\ner kann\nwir kÃ¶nnen"
+      "Verbes réguliers": "Aucun changement de radical, juste les terminaisons.\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
+      "Verbes irréguliers": "Changement de voyelle UNIQUEMENT aux personnes : du / er / sie / es. \na → ä\tfahren → fährst\ne → i\tgeben → gibst\ne → ie\tlesen → liest\nich / wir / ihr / sie = PAS de changement",
+      "Suppression du -s  en fonction des terminaisons": "Suppression du -s à la 2ème personne du sg quand le radical se termine par :\n-s\n-ß\n-x\n-z\n👉 du = -t (pas -st)\n\ndu heißt\ndu tanzt\ndu sitzt",
+      "Ajout d’un -e-": "Au présent (et à l'impératif), les verbes dont le radical se termine par -t, -d ou -m / -n précédé d’une autre consonne, prennent un -e- d’appui devant les terminaisons en -st et -t.\n\narbeiten → du arbeitest, er arbeitet, ihr arbeitet\nreden → du redest, er redet, ihr redet\natmen → du atmest, er atmet, ihr atmet\nöffnen → du öffnest, er öffnet, ihr öffnet\n\nRègle phonétique, pas orthographique.\nMême principe pour le prétérit mais pas tout à fait.",
+      "Verbes en -eln et -ern": "Verbes en -eln : le -e- du radical tombe à ich => -eln → -le\nVerbes en -ern : réguliers, \naucun changement\n\nhandeln => ich handle, du handelst\nändern => ich ändere, du änderst",
+      "Verbes à particule séparable": "le verbe se conjugue normalement, la particule va en fin de phrase\n\nabholen : ich hole dich ab",
+      "Verbes à particule inséparable": "aucune séparation, conjugaison normale\n\nverstehen : ich verstehe",
+      "Verbes totalement irréguliers (à apprendre par cœur)": "🔹 sein\nich bin\ndu bist\ner ist\nwir sind\nihr seid\nsie sind\n\n🔹 haben\nich habe\ndu hast\ner hat\nwir haben\nihr habt\nsie haben\n\n🔹 werden\nich werde\ndu wirst\ner wird\nwir werden\nihr werdet\nsie werden",
+      "Verbes de modalité": "irréguliers, sans -e- à ich / er\n\nkönnen\nich kann\ndu kannst\ner kann\nwir können"
     },
-    "PrÃ©tÃ©rit": {
-      "Verbes rÃ©guliers": "radical du prÃ©tÃ©rit + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\nlernen â†’ ich lernte\nspielen â†’ ich spielte\nmachen â†’ ich machte",
-      "Verbes irrÃ©guliers": "Changement de voyelle Ã  toutes les personnes. \nPas de terminaison avec ich / er.\nich\t\tÃ˜\ndu\t\t-st\ner/sie/es\tÃ˜\nwir\t\t-en\nihr\t\t-t\nsie/Sie\t\t-en\n\ngehen â†’ ich ging\nsehen â†’ ich sah\nkommen â†’ ich kam\nschreiben â†’ ich schrieb",
-      "Verbes mixtes": "Verbes faibles + changement de voyelle\nradical modifiÃ© + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\ndenken â†’ ich dachte\nbringen â†’ ich brachte\nkennen â†’ ich kannte\nwissen â†’ ich wusste\nnennen â†’ ich nannte",
-      "Ajout dâ€™un -e-": "Au prÃ©tÃ©rit, pour les verbes faibles dont le radical se termine par -t, -d ou -m / -n prÃ©cÃ©dÃ© dâ€™une autre consonne, on insÃ¨re un -e- entre le radical et les terminaisons du prÃ©tÃ©rit (pour rappel : -te, -test, -te, -ten, -tet, -ten).\n\narbeiten â†’ ich arbeitete\nenden â†’ ich endete\natmen â†’ ich atmete",
-      "Verbes Ã  particule sÃ©parable": "Le prÃ©fixe va Ã  la fin de la phrase.\n\nankommen â†’ ich kam an\nabholen â†’ ich holte ab",
-      "Verbes Ã  particule insÃ©parable": "comportement normal\n\nverstehen â†’ ich verstand\nbesuchen â†’ ich besuchte"
+    "Prétérit": {
+      "Verbes réguliers": "radical du prétérit + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\nlernen → ich lernte\nspielen → ich spielte\nmachen → ich machte",
+      "Verbes irréguliers": "Changement de voyelle à toutes les personnes. \nPas de terminaison avec ich / er.\nich\t\tØ\ndu\t\t-st\ner/sie/es\tØ\nwir\t\t-en\nihr\t\t-t\nsie/Sie\t\t-en\n\ngehen → ich ging\nsehen → ich sah\nkommen → ich kam\nschreiben → ich schrieb",
+      "Verbes mixtes": "Verbes faibles + changement de voyelle\nradical modifié + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\ndenken → ich dachte\nbringen → ich brachte\nkennen → ich kannte\nwissen → ich wusste\nnennen → ich nannte",
+      "Ajout d’un -e-": "Au prétérit, pour les verbes faibles dont le radical se termine par -t, -d ou -m / -n précédé d’une autre consonne, on insère un -e- entre le radical et les terminaisons du prétérit (pour rappel : -te, -test, -te, -ten, -tet, -ten).\n\narbeiten → ich arbeitete\nenden → ich endete\natmen → ich atmete",
+      "Verbes à particule séparable": "Le préfixe va à la fin de la phrase.\n\nankommen → ich kam an\nabholen → ich holte ab",
+      "Verbes à particule inséparable": "comportement normal\n\nverstehen → ich verstand\nbesuchen → ich besuchte"
     }
   },
   "A trouver": {
     "Pronoms": {
-      "Pronoms rÃ©flÃ©chis": "ich\t\tmich\ndu\t\tdich\ner/sie/es\tsich\nwir\t\tuns\nihr\t\teuch\nsie/Sie\t\tsich\n\nich freue mich\ndu verletzst dich"
+      "Pronoms réfléchis": "ich\t\tmich\ndu\t\tdich\ner/sie/es\tsich\nwir\t\tuns\nihr\t\teuch\nsie/Sie\t\tsich\n\nich freue mich\ndu verletzst dich"
     },
     "Nombre ordinaux": {
-      "RÃ¨gle gÃ©nÃ©rale de composition": "- jusquâ€™Ã  19 : nombre + -te\n- Ã  partir de 20 : nombre + -ste\n\nvier â†’ vierte\ndreiÃŸig â†’ dreiÃŸigste",
-      "Exceptions": "- eins â†’ erste\n- drei â†’ dritte\n- sieben â†’ siebte (perte du -en)\n- acht â†’ achte (perte du -t)",
-      "Composition des grands nombres": "Pour former un nombre ordinal composÃ©, on ne transforme que le DERNIER Ã©lÃ©ment du nombre cardinal. Tout le reste reste inchangÃ©.\n\neinundzwanzig â†’ einundzwanzigste",
-      "DÃ©clinaison des ordinaux": "Les ordinaux se dÃ©clinent comme des adjectifs\n\nam ersten Mai",
-      "DateÂ du jour": "Heute ist der + ordinal (NOMINATIF)\n\nHeute ist der achtundzwanzigste Dezember.",
+      "Règle générale de composition": "- jusqu’à 19 : nombre + -te\n- à partir de 20 : nombre + -ste\n\nvier → vierte\ndreißig → dreißigste",
+      "Exceptions": "- eins → erste\n- drei → dritte\n- sieben → siebte (perte du -en)\n- acht → achte (perte du -t)",
+      "Composition des grands nombres": "Pour former un nombre ordinal composé, on ne transforme que le DERNIER élément du nombre cardinal. Tout le reste reste inchangé.\n\neinundzwanzig → einundzwanzigste",
+      "Déclinaison des ordinaux": "Les ordinaux se déclinent comme des adjectifs\n\nam ersten Mai",
+      "Date du jour": "Heute ist der + ordinal (NOMINATIF)\n\nHeute ist der achtundzwanzigste Dezember.",
       "Date d'un rendez-vous": "am + ordinal +n (DATIF)\n\nDer Termin ist am dritten Januar."
     },
     "Les cas": {
-      "Nominatif": "Il correspond Ã  la fonction Â« sujet Â» et Â« attribut du sujet Â»\n\nDer Mann ist groÃŸ.\nDie Dame ist meine Schwester.",
-      "Accusatif": "Il correspond Ã  la fonction Â« ComplÃ©ment d'Objet Direct Â» en franÃ§ais.\n\nMein Vater hat einen Bruder.",
-      "Datif": "Il correspond Ã  la fonction Â« ComplÃ©ment d'Objet Indirect Â» en franÃ§ais.\n\nIch gebe meinem Bruder ein Geschenk.\n\nNoter qu'en allemand, si on se trouve en prÃ©sence d'un COD et d'un COI, on place souvent le COI en premier suivi du COD.",
-      "GÃ©nitif": "Il correspond Ã  la fonction Â« ComplÃ©ment du nom Â» en franÃ§ais.\n\nDer Bruder meines Vaters ist mein Onkel.\n\nNoter qu'en allemand, l'utilisation du gÃ©nitif implique d'ajouter Â« (e)s Â» aux noms communs masculins ou neutres comme Ã  Â« Vaters Â» dans l'exemple."
+      "Nominatif": "Il correspond à la fonction « sujet » et « attribut du sujet »\n\nDer Mann ist groß.\nDie Dame ist meine Schwester.",
+      "Accusatif": "Il correspond à la fonction « Complément d'Objet Direct » en français.\n\nMein Vater hat einen Bruder.",
+      "Datif": "Il correspond à la fonction « Complément d'Objet Indirect » en français.\n\nIch gebe meinem Bruder ein Geschenk.\n\nNoter qu'en allemand, si on se trouve en présence d'un COD et d'un COI, on place souvent le COI en premier suivi du COD.",
+      "Génitif": "Il correspond à la fonction « Complément du nom » en français.\n\nDer Bruder meines Vaters ist mein Onkel.\n\nNoter qu'en allemand, l'utilisation du génitif implique d'ajouter « (e)s » aux noms communs masculins ou neutres comme à « Vaters » dans l'exemple."
     },
-    "Adjectif substantivÃ©": {
-      "DÃ©clinaison forte": "Quand il nâ€™y a PAS dâ€™article ou quand il est prÃ©cÃ©dÃ© de :\netwas / nichts / viel / wenig / alles\nCes mots nâ€™indiquent pas le genre â†’ lâ€™adjectif doit tout porter.\nN: -es | A: -es | D: -em | G: -en\n\nnichts Wichtiges (N/A) => Es geht um nichts Wichtiges.\netwas Neues (N/A)\nmit etwas Gutem (D)\nwegen nichts Besonderen (G)\n\nUn adjectif substantivÃ© se dÃ©cline exactement comme un adjectif normal. \nLa seule diffÃ©rence : il prend une majuscule et il nâ€™y a pas de nom derriÃ¨re.\nLe type de dÃ©clinaison (forte, faible, mixte) dÃ©pend de ce qui prÃ©cÃ¨de lâ€™adjectif substantivÃ©.",
-      "DÃ©clinaison faible": "Quand lâ€™adjectif substantivÃ© est prÃ©cÃ©dÃ© de :\nder / die / das\ndieser / jeder / welcher, etc.\nLâ€™article porte dÃ©jÃ  lâ€™information â†’ lâ€™adjectif est â€œfaibleâ€.\nN: -e | A: -e | D: -en | G: -en\n\ndas Gute\nder Alte\ndie Kranken\ndem Alten\nvon dem Guten\n\nUn adjectif substantivÃ© se dÃ©cline exactement comme un adjectif normal. \nLa seule diffÃ©rence : il prend une majuscule et il nâ€™y a pas de nom derriÃ¨re.\nLe type de dÃ©clinaison (forte, faible, mixte) dÃ©pend de ce qui prÃ©cÃ¨de lâ€™adjectif substantivÃ©.",
-      "DÃ©clinaison mixte": "AprÃ¨s ein / eine, mein / dein, etc.\nLâ€™article nâ€™indique pas toujours le genre â†’ lâ€™adjectif complÃ¨te.\nN: -es / -er| A: -es / -en | D: -en | G: -en\n\nein Gutes\neinen Alten\neinem Kranken\n\nUn adjectif substantivÃ© se dÃ©cline exactement comme un adjectif normal. \nLa seule diffÃ©rence : il prend une majuscule et il nâ€™y a pas de nom derriÃ¨re.\nLe type de dÃ©clinaison (forte, faible, mixte) dÃ©pend de ce qui prÃ©cÃ¨de lâ€™adjectif substantivÃ©."
+    "Adjectif substantivé": {
+      "Déclinaison forte": "Quand il n’y a PAS d’article ou quand il est précédé de :\netwas / nichts / viel / wenig / alles\nCes mots n’indiquent pas le genre → l’adjectif doit tout porter.\nN: -es | A: -es | D: -em | G: -en\n\nnichts Wichtiges (N/A) => Es geht um nichts Wichtiges.\netwas Neues (N/A)\nmit etwas Gutem (D)\nwegen nichts Besonderen (G)\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
+      "Déclinaison faible": "Quand l’adjectif substantivé est précédé de :\nder / die / das\ndieser / jeder / welcher, etc.\nL’article porte déjà l’information → l’adjectif est “faible”.\nN: -e | A: -e | D: -en | G: -en\n\ndas Gute\nder Alte\ndie Kranken\ndem Alten\nvon dem Guten\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
+      "Déclinaison mixte": "Après ein / eine, mein / dein, etc.\nL’article n’indique pas toujours le genre → l’adjectif complète.\nN: -es / -er| A: -es / -en | D: -en | G: -en\n\nein Gutes\neinen Alten\neinem Kranken\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé."
+    },
+    "Structure des phrases": {
+      "Catégorie 1 — Verbe à la fin": "<b>weil</b> = parce que\n<b>damit</b> = pour que, afin que\n<b>dass</b> = que\n<b>wenn</b> = quand, lorsque, si (condition)\n<b>ob</b> = si (question indirecte)\nIch bleibe zu Hause, <b>weil</b> <span style=\"color:#16803C\">mein Bruder</span> morgen nach Berlin <span style=\"color:#2563EB\">fährt</span>.\nIch weiß, <b>dass</b> <span style=\"color:#16803C\">du</span> heute länger <span style=\"color:#D97706\">arbeiten</span> <span style=\"color:#2563EB\">musst</span>.",
+      "Catégorie 2 — Ordre normal": "<b>denn</b> = car, parce que\n<b>aber</b> = mais\n<b>und</b> = et\n<b>oder</b> = ou\n<b>sondern</b> = mais plutôt (après une négation)\nIch bleibe zu Hause, <b>denn</b> <span style=\"color:#16803C\">mein Bruder</span> <span style=\"color:#2563EB\">fährt</span> morgen nach Berlin.\nIch gehe nach Hause, <b>aber</b> <span style=\"color:#16803C\">du</span> <span style=\"color:#2563EB\">musst</span> noch <span style=\"color:#D97706\">arbeiten</span>.",
+      "Catégorie 3 — Inversion": "<b>deshalb</b> = c'est pourquoi, donc\n<b>deswegen</b> = c'est pourquoi, pour cette raison\n<b>darum</b> = c'est pourquoi, voilà pourquoi\n<b>dann</b> = ensuite, alors\n<b>sonst</b> = sinon, autrement\nMein Bruder hat Urlaub. <b>Deshalb</b> <span style=\"color:#2563EB\">fährt</span> <span style=\"color:#16803C\">er</span> morgen nach Berlin.\nDu hast morgen eine Prüfung. <b>Deshalb</b> <span style=\"color:#2563EB\">musst</span> <span style=\"color:#16803C\">du</span> heute <span style=\"color:#D97706\">lernen</span>."
     }
   },
-  "Les dÃ©clinaisons": {
-    "Articles dÃ©finis": {
-      "der (masculin)": "N: der | A: den | D: dem | G: des (+s)\n\nNominatif : Der Mann kommt.\nAccusatif : Ich sehe den Mann.\nDatif : Ich helfe dem Mann.\nGÃ©nitif : Das Auto des Mannes ist neu.\n\nLes articles dÃ©finis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der",
-      "die (fÃ©minin)": "N: die | A: die | D: der | G: der\n\nNominatif : Die Frau arbeitet.\nAccusatif : Ich sehe die Frau.\nDatif : Ich helfe der Frau.\nGÃ©nitif : Die Tasche der Frau ist rot.\n\nLes articles dÃ©finis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der",
-      "das (neutre)": "N: das | A: das | D: dem | G: des (+s)\n\nNominatif : Das Kind schlÃ¤ft.\nAccusatif : Ich sehe das Kind.\nDatif : Ich helfe dem Kind.\nGÃ©nitif : Das Spiel des Kindes ist neu.\n\nLes articles dÃ©finis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der",
-      "die (pluriel)": "N: die | A: die | D: den (+n) | G: der\n\nNominatif : Die Kinder spielen.\nAccusatif : Ich sehe die Kinder.\nDatif : Ich helfe den Kindern.\nGÃ©nitif : Die Eltern der Kinder sind da.\n\nLes articles dÃ©finis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der"
+  "Les déclinaisons": {
+    "Global": {
+      "Global": ""
+    },
+    "Articles définis": {
+      "der (masculin)": "N: der | A: den | D: dem | G: des (+s)\n\nNominatif : Der Mann kommt.\nAccusatif : Ich sehe den Mann.\nDatif : Ich helfe dem Mann.\nGénitif : Das Auto des Mannes ist neu.\n\nLes articles définis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der",
+      "die (féminin)": "N: die | A: die | D: der | G: der\n\nNominatif : Die Frau arbeitet.\nAccusatif : Ich sehe die Frau.\nDatif : Ich helfe der Frau.\nGénitif : Die Tasche der Frau ist rot.\n\nLes articles définis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der",
+      "das (neutre)": "N: das | A: das | D: dem | G: des (+s)\n\nNominatif : Das Kind schläft.\nAccusatif : Ich sehe das Kind.\nDatif : Ich helfe dem Kind.\nGénitif : Das Spiel des Kindes ist neu.\n\nLes articles définis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der",
+      "die (pluriel)": "N: die | A: die | D: den (+n) | G: der\n\nNominatif : Die Kinder spielen.\nAccusatif : Ich sehe die Kinder.\nDatif : Ich helfe den Kindern.\nGénitif : Die Eltern der Kinder sind da.\n\nLes articles définis accompagnent un nom.\nder: der / den / dem / des\ndie(f): die / die / der / der\ndas: das / das / dem / des\ndie(pl): die / die / den(+n) / der"
     },
     "Pronoms personnels": {
-      "er": "N: er | A: ihn | D: ihm | G: seiner\n\nNominatif : Der Mann ist hier. Er ist hier.\nAccusatif : Ich sehe den Mann. Ich sehe ihn.\nDatif : Ich helfe dem Mann. Ich helfe ihm.\nGÃ©nitif : Ich gedenke des Mannes. Ich gedenke seiner.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer",
-      "sie (fÃ©minin)": "N: sie | A: sie | D: ihr | G: ihrer\n\nNominatif : Die Frau kommt. Sie kommt.\nAccusatif : Ich sehe die Frau. Ich sehe sie.\nDatif : Ich helfe der Frau. Ich helfe ihr.\nGÃ©nitif : Ich gedenke der Frau. Ich gedenke ihrer.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer",
-      "es": "N: es | A: es | D: ihm | G: seiner\n\nNominatif : Das Kind lacht. Es lacht.\nAccusatif : Ich sehe das Kind. Ich sehe es.\nDatif : Ich helfe dem Kind. Ich helfe ihm.\nGÃ©nitif : Ich gedenke des Kindes. Ich gedenke seiner.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer",
-      "sie (pluriel)": "N: sie | A: sie | D: ihnen | G: ihrer\n\nNominatif : Die Kinder kommen. Sie kommen.\nAccusatif : Ich sehe die Kinder. Ich sehe sie.\nDatif : Ich helfe den Kindern. Ich helfe ihnen.\nGÃ©nitif : Ich gedenke der Kinder. Ich gedenke ihrer.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer"
+      "er": "N: er | A: ihn | D: ihm | G: seiner\n\nNominatif : Der Mann ist hier. Er ist hier.\nAccusatif : Ich sehe den Mann. Ich sehe ihn.\nDatif : Ich helfe dem Mann. Ich helfe ihm.\nGénitif : Ich gedenke des Mannes. Ich gedenke seiner.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer",
+      "sie (féminin)": "N: sie | A: sie | D: ihr | G: ihrer\n\nNominatif : Die Frau kommt. Sie kommt.\nAccusatif : Ich sehe die Frau. Ich sehe sie.\nDatif : Ich helfe der Frau. Ich helfe ihr.\nGénitif : Ich gedenke der Frau. Ich gedenke ihrer.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer",
+      "es": "N: es | A: es | D: ihm | G: seiner\n\nNominatif : Das Kind lacht. Es lacht.\nAccusatif : Ich sehe das Kind. Ich sehe es.\nDatif : Ich helfe dem Kind. Ich helfe ihm.\nGénitif : Ich gedenke des Kindes. Ich gedenke seiner.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer",
+      "sie (pluriel)": "N: sie | A: sie | D: ihnen | G: ihrer\n\nNominatif : Die Kinder kommen. Sie kommen.\nAccusatif : Ich sehe die Kinder. Ich sehe sie.\nDatif : Ich helfe den Kindern. Ich helfe ihnen.\nGénitif : Ich gedenke der Kinder. Ich gedenke ihrer.\n\nLes pronoms personnels remplacent un nom.\ner: er / ihn / ihm / seiner\nsie(f): sie / sie / ihr / ihrer\nes: es / es / ihm / seiner\nsie(pl): sie / sie / ihnen / ihrer"
     },
-    "Articles indÃ©finis": {
-      "ein (masculin)": "N: ein | A: einen | D: einem | G: eines (+s)\n\nNominatif : Ein Mann wartet.\nAccusatif : Ich sehe einen Mann.\nDatif : Ich helfe einem Mann.\nGÃ©nitif : Das Auto eines Mannes ist alt.\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines",
-      "eine (fÃ©minin)": "N: eine | A: eine | D: einer | G: einer\n\nNominatif : Eine Frau spricht.\nAccusatif : Ich sehe eine Frau.\nDatif : Ich helfe einer Frau.\nGÃ©nitif : Die Tasche einer Frau liegt hier.\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines",
-      "ein (neutre)": "N: ein | A: ein | D: einem | G: eines (+s)\n\nNominatif : Ein Kind spielt.\nAccusatif : Ich sehe ein Kind.\nDatif : Ich helfe einem Kind.\nGÃ©nitif : Das Spiel eines Kindes ist neu.\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines",
-      "pluriel": "â€” (kein pluriel)\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines"
+    "Articles indéfinis": {
+      "ein (masculin)": "N: ein | A: einen | D: einem | G: eines (+s)\n\nNominatif : Ein Mann wartet.\nAccusatif : Ich sehe einen Mann.\nDatif : Ich helfe einem Mann.\nGénitif : Das Auto eines Mannes ist alt.\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines",
+      "eine (féminin)": "N: eine | A: eine | D: einer | G: einer\n\nNominatif : Eine Frau spricht.\nAccusatif : Ich sehe eine Frau.\nDatif : Ich helfe einer Frau.\nGénitif : Die Tasche einer Frau liegt hier.\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines",
+      "ein (neutre)": "N: ein | A: ein | D: einem | G: eines (+s)\n\nNominatif : Ein Kind spielt.\nAccusatif : Ich sehe ein Kind.\nDatif : Ich helfe einem Kind.\nGénitif : Das Spiel eines Kindes ist neu.\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines",
+      "pluriel": "— (kein pluriel)\n\nein(m): ein / einen / einem / eines\neine(f): eine / eine / einer / einer\nein(n): ein / ein / einem / eines"
     }
   },
-  "Les prÃ©positions": {
-    "an â€“ auf â€“ hinter â€“ in â€“ neben â€“ Ã¼ber â€“ unter â€“ vor â€“ zwischen": {
-      "in : quel cas est appelÃ© ?": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
+  "Les prépositions": {
+    "an – auf – hinter – in – neben – über – unter – vor – zwischen": {
+      "in : quel cas est appelé ?": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
+    },
+    "Les prépositions": {
+      "Prépositions + accusatif": "<b>bis</b> = jusqu'à\n<b>durch</b> = à travers, par\n<b>für</b> = pour\n<b>gegen</b> = contre, vers (heure)\n<b>ohne</b> = sans\n<b>um</b> = autour de, à (heure)\n<b>entlang</b> = le long de",
+      "Prépositions mixtes": "<b>an</b> = à, contre, au bord de\n<b>auf</b> = sur\n<b>hinter</b> = derrière\n<b>in</b> = dans, en\n<b>neben</b> = à côté de\n<b>über</b> = au-dessus de, sur (sujet)\n<b>unter</b> = sous, parmi\n<b>vor</b> = devant, avant\n<b>zwischen</b> = entre",
+      "Prépositions + datif": "<b>aus</b> = de, hors de (origine)\n<b>außer</b> = sauf, excepté\n<b>bei</b> = chez, auprès de, près de\n<b>mit</b> = avec\n<b>nach</b> = après, vers (destination)\n<b>seit</b> = depuis (durée)\n<b>von</b> = de, venant de\n<b>zu</b> = à, chez, vers\n<b>gegenüber</b> = en face de"
     }
   }
 }
