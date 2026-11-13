@@ -73,23 +73,21 @@
     }
   },
   "Les prépositions": {
-    "Toutes": {
+    "Récap": {
       "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Akk</th><th>Mixte</th><th>Dat</th></tr>\n<tr><td>bis</td><td>an</td><td>aus</td></tr>\n<tr><td>durch</td><td>auf</td><td>außer</td></tr>\n<tr><td>für</td><td>hinter</td><td>bei</td></tr>\n<tr><td>gegen</td><td>in</td><td>mit</td></tr>\n<tr><td>ohne</td><td>neben</td><td>nach</td></tr>\n<tr><td>um</td><td>über</td><td>seit</td></tr>\n<tr><td>entlang</td><td>unter</td><td>von</td></tr>\n<tr><td></td><td>vor</td><td>zu</td></tr>\n<tr><td></td><td>zwischen</td><td>gegenüber</td></tr>\n</table>"
     },
     "Prépositions + accusatif": {
       "": "<b>bis</b> = jusqu'à\n<b>durch</b> = à travers, par\n<b>für</b> = pour\n<b>gegen</b> = contre, vers (heure)\n<b>ohne</b> = sans\n<b>um</b> = autour de, à (heure)\n<b>entlang</b> = le long de"
     },
     "Prépositions mixtes": {
-      "": "<b>an</b> = à, contre, au bord de\n<b>auf</b> = sur\n<b>hinter</b> = derrière\n<b>in</b> = dans, en\n<b>neben</b> = à côté de\n<b>über</b> = au-dessus de, sur (sujet)\n<b>unter</b> = sous, parmi\n<b>vor</b> = devant, avant\n<b>zwischen</b> = entre"
+      "Les prépositions": "<b>an</b> = à, contre, au bord de\n<b>auf</b> = sur\n<b>hinter</b> = derrière\n<b>in</b> = dans, en\n<b>neben</b> = à côté de\n<b>über</b> = au-dessus de, sur (sujet)\n<b>unter</b> = sous, parmi\n<b>vor</b> = devant, avant\n<b>zwischen</b> = entre",
+      "Choix du cas": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
     },
     "Prépositions + datif": {
       "": "<b>aus</b> = de, hors de (origine)\n<b>außer</b> = sauf, excepté\n<b>bei</b> = chez, auprès de, près de\n<b>mit</b> = avec\n<b>nach</b> = après, vers (destination)\n<b>seit</b> = depuis (durée)\n<b>von</b> = de, venant de\n<b>zu</b> = à, chez, vers\n<b>gegenüber</b> = en face de"
     },
     "Prépositions + génitif": {
       "": "wegen, trotz"
-    },
-    "an – auf – hinter – in – neben – über – unter – vor – zwischen": {
-      "in : quel cas est appelé ?": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
     }
   }
 }
