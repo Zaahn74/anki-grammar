@@ -1,16 +1,5 @@
 {
   "Conjugaison": {
-    "Passé composé": {
-      "Structure de base": "Auxiliaire (haben ou sein) + participe passé",
-      "Participe passé des verbes réguliers": "ge- + radical + -t\n\nlernen → gelernt\nmachen → gemacht\nspielen → gespielt",
-      "Participe passé des verbes irréguliers": "ge- + radical modifié + -en\n\ngehen → gegangen\ntrinken → getrunken\nschreiben → geschrieben\n\nLe changement de voyelle doit être appris.",
-      "Participe passé des verbes mixtes": "ge- + radical modifié + -t\n\nbringen → gebracht\ndenken → gedacht\nkennen → gekannt\n\nTerminaison en -t comme un régulier, mais voyelle changée comme un irrégulier.",
-      "Participe passé en fonction des terminaisons": "Quand le radical finit par -t, -d, ou -m / -n après une consonne : ge- + radical + -et\n\narbeiten → gearbeitet\nenden → geendet\natmen → geatmet\n\nLe -e- sert à la prononciation.\nOn ajoute -e- avant -t si le radical se termine par : -tm, -dn, -fn, -gn, -mn, -tn.",
-      "Participe passé des verbes à particule séparable": "particule + ge- + radical + (t / en)\n\nabholen → abgeholt\nanfangen → angefangen\nmitkommen → mitgekommen\n\nge- se place entre la particule et le verbe.",
-      "Participe passé des verbes à particule inséparable": "PAS de ge-\n\nbesuchen → besucht\nverstehen → verstanden\nerzählen → erzählt\n\nPréfixes inséparables : be-, ver-, er-, ent-, zer-, emp-, miss-",
-      "Participe passé des verbes en -ieren": "PAS de ge- + radical + -t\n\nstudieren → studiert\ntelefonieren → telefoniert\nreparieren → repariert\n\nToujours -t, jamais ge-.",
-      "Choix de l’auxiliaire": "1. Est-ce que le sujet change de lieu (déplacement) ou d’état ? Si oui → sein.\n2. Y a-t-il un objet direct ? Si oui → haben\n3. Si aucun des deux → souvent haben (activité).\n\nfahren + sein (déplacement d’un point A à un point B)\nex : Ich bin nach Berlin gefahren. Je suis allé à Berlin\n\nfahren + haben (activité / conduite)\nex : Er hat schnell gefahren. Il a roulé vite.\n\nfahren + objet direct → toujours haben\nex : Sie hat den Bus gefahren. Elle conduisait le bus."
-    },
     "Présent": {
       "Structure de base": "radical + terminaison\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
       "Verbes réguliers": "Aucun changement de radical, juste les terminaisons.\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
@@ -30,6 +19,62 @@
       "Ajout d’un -e-": "Au prétérit, pour les verbes faibles dont le radical se termine par -t, -d ou -m / -n précédé d’une autre consonne, on insère un -e- entre le radical et les terminaisons du prétérit (pour rappel : -te, -test, -te, -ten, -tet, -ten).\n\narbeiten → ich arbeitete\nenden → ich endete\natmen → ich atmete",
       "Verbes à particule séparable": "Le préfixe va à la fin de la phrase.\n\nankommen → ich kam an\nabholen → ich holte ab",
       "Verbes à particule inséparable": "comportement normal\n\nverstehen → ich verstand\nbesuchen → ich besuchte"
+    },
+    "Passé composé": {
+      "Structure de base": "Auxiliaire (haben ou sein) + participe passé",
+      "Participe passé des verbes réguliers": "ge- + radical + -t\n\nlernen → gelernt\nmachen → gemacht\nspielen → gespielt",
+      "Participe passé des verbes irréguliers": "ge- + radical modifié + -en\n\ngehen → gegangen\ntrinken → getrunken\nschreiben → geschrieben\n\nLe changement de voyelle doit être appris.",
+      "Participe passé des verbes mixtes": "ge- + radical modifié + -t\n\nbringen → gebracht\ndenken → gedacht\nkennen → gekannt\n\nTerminaison en -t comme un régulier, mais voyelle changée comme un irrégulier.",
+      "Participe passé en fonction des terminaisons": "Quand le radical finit par -t, -d, ou -m / -n après une consonne : ge- + radical + -et\n\narbeiten → gearbeitet\nenden → geendet\natmen → geatmet\n\nLe -e- sert à la prononciation.\nOn ajoute -e- avant -t si le radical se termine par : -tm, -dn, -fn, -gn, -mn, -tn.",
+      "Participe passé des verbes à particule séparable": "particule + ge- + radical + (t / en)\n\nabholen → abgeholt\nanfangen → angefangen\nmitkommen → mitgekommen\n\nge- se place entre la particule et le verbe.",
+      "Participe passé des verbes à particule inséparable": "PAS de ge-\n\nbesuchen → besucht\nverstehen → verstanden\nerzählen → erzählt\n\nPréfixes inséparables : be-, ver-, er-, ent-, zer-, emp-, miss-",
+      "Participe passé des verbes en -ieren": "PAS de ge- + radical + -t\n\nstudieren → studiert\ntelefonieren → telefoniert\nreparieren → repariert\n\nToujours -t, jamais ge-.",
+      "Choix de l’auxiliaire": "1. Est-ce que le sujet change de lieu (déplacement) ou d’état ? Si oui → sein.\n2. Y a-t-il un objet direct ? Si oui → haben\n3. Si aucun des deux → souvent haben (activité).\n\nfahren + sein (déplacement d’un point A à un point B)\nex : Ich bin nach Berlin gefahren. Je suis allé à Berlin\n\nfahren + haben (activité / conduite)\nex : Er hat schnell gefahren. Il a roulé vite.\n\nfahren + objet direct → toujours haben\nex : Sie hat den Bus gefahren. Elle conduisait le bus."
+    }
+  },
+  "Les déclinaisons": {
+    "Articles définis": {
+      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>der</th><th>die</th><th>das</th><th>die</th></tr>\n<tr><th>Nom</th><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Akk</th><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Dat</th><td>dem</td><td>der</td><td>dem</td><td>den (+n)</td></tr>\n<tr><th>Gen</th><td>des (+s)</td><td>der</td><td>des (+s)</td><td>der</td></tr>\n</table>"
+    },
+    "Pronoms personnels": {
+      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>er</th><th>sie</th><th>es</th><th>sie</th></tr>\n<tr><th>Nom</th><td>er</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Akk</th><td>ihn</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Dat</th><td>ihm</td><td>ihr</td><td>ihm</td><td>ihnen</td></tr>\n<tr><th>Gen</th><td>seiner</td><td>ihrer</td><td>seiner</td><td>ihrer</td></tr>\n</table>"
+    },
+    "Articles indéfinis": {
+      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>ein</th><th>eine</th><th>ein</th><th>Pluriel</th></tr>\n<tr><th>Nom</th><td>ein</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Akk</th><td>einen</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Dat</th><td>einem</td><td>einer</td><td>einem</td><td>—</td></tr>\n<tr><th>Gen</th><td>eines (+s)</td><td>einer</td><td>eines (+s)</td><td>—</td></tr>\n</table>"
+    },
+    "Adjectif substantivé": {
+      "Déclinaison forte": "Quand il n’y a PAS d’article ou quand il est précédé de :\netwas / nichts / viel / wenig / alles\nCes mots n’indiquent pas le genre → l’adjectif doit tout porter.\nN: -es | A: -es | D: -em | G: -en\n\nnichts Wichtiges (N/A) => Es geht um nichts Wichtiges.\netwas Neues (N/A)\nmit etwas Gutem (D)\nwegen nichts Besonderen (G)\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
+      "Déclinaison faible": "Quand l’adjectif substantivé est précédé de :\nder / die / das\ndieser / jeder / welcher, etc.\nL’article porte déjà l’information → l’adjectif est “faible”.\nN: -e | A: -e | D: -en | G: -en\n\ndas Gute\nder Alte\ndie Kranken\ndem Alten\nvon dem Guten\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
+      "Déclinaison mixte": "Après ein / eine, mein / dein, etc.\nL’article n’indique pas toujours le genre → l’adjectif complète.\nN: -es / -er| A: -es / -en | D: -en | G: -en\n\nein Gutes\neinen Alten\neinem Kranken\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé."
+    }
+  },
+  "Les prépositions": {
+    "Récap": {
+      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Akk</th><th>Mixte</th><th>Dat</th></tr>\n<tr><td>bis</td><td>an</td><td>aus</td></tr>\n<tr><td>durch</td><td>auf</td><td>außer</td></tr>\n<tr><td>für</td><td>hinter</td><td>bei</td></tr>\n<tr><td>gegen</td><td>in</td><td>mit</td></tr>\n<tr><td>ohne</td><td>neben</td><td>nach</td></tr>\n<tr><td>um</td><td>über</td><td>seit</td></tr>\n<tr><td>entlang</td><td>unter</td><td>von</td></tr>\n<tr><td></td><td>vor</td><td>zu</td></tr>\n<tr><td></td><td>zwischen</td><td>gegenüber</td></tr>\n</table>"
+    },
+    "Prépositions + accusatif": {
+      "": "<b>bis</b> = jusqu'à\n<b>durch</b> = à travers, par\n<b>für</b> = pour\n<b>gegen</b> = contre, vers (heure)\n<b>ohne</b> = sans\n<b>um</b> = autour de, à (heure)\n<b>entlang</b> = le long de"
+    },
+    "Prépositions mixtes": {
+      "Les prépositions": "<b>an</b> = à, contre, au bord de\n<b>auf</b> = sur\n<b>hinter</b> = derrière\n<b>in</b> = dans, en\n<b>neben</b> = à côté de\n<b>über</b> = au-dessus de, sur (sujet)\n<b>unter</b> = sous, parmi\n<b>vor</b> = devant, avant\n<b>zwischen</b> = entre",
+      "Choix du cas": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
+    },
+    "Prépositions + datif": {
+      "": "<b>aus</b> = de, hors de (origine)\n<b>außer</b> = sauf, excepté\n<b>bei</b> = chez, auprès de, près de\n<b>mit</b> = avec\n<b>nach</b> = après, vers (destination)\n<b>seit</b> = depuis (durée)\n<b>von</b> = de, venant de\n<b>zu</b> = à, chez, vers\n<b>gegenüber</b> = en face de"
+    },
+    "Prépositions + génitif": {
+      "": "wegen, trotz"
+    }
+  },
+  "Structure des phrases": {
+    "Catégorie 1 — Verbe à la fin": {
+      "": "<b>weil</b> = parce que\n<b>damit</b> = pour que, afin que\n<b>dass</b> = que\n<b>wenn</b> = quand, lorsque, si (condition)\n<b>ob</b> = si (question indirecte)\nIch bleibe zu Hause, <b>weil</b> <span style=\"color:#16803C\">mein Bruder</span> morgen nach Berlin <span style=\"color:#2563EB\">fährt</span>.\nIch weiß, <b>dass</b> <span style=\"color:#16803C\">du</span> heute länger <span style=\"color:#D97706\">arbeiten</span> <span style=\"color:#2563EB\">musst</span>."
+    },
+    "Catégorie 2 — Ordre normal": {
+      "": "<b>denn</b> = car, parce que\n<b>aber</b> = mais\n<b>und</b> = et\n<b>oder</b> = ou\n<b>sondern</b> = mais plutôt (après une négation)\nIch bleibe zu Hause, <b>denn</b> <span style=\"color:#16803C\">mein Bruder</span> <span style=\"color:#2563EB\">fährt</span> morgen nach Berlin.\nIch gehe nach Hause, <b>aber</b> <span style=\"color:#16803C\">du</span> <span style=\"color:#2563EB\">musst</span> noch <span style=\"color:#D97706\">arbeiten</span>."
+    },
+    "Catégorie 3 — Inversion": {
+      "": "<b>deshalb</b> = c'est pourquoi, donc\n<b>deswegen</b> = c'est pourquoi, pour cette raison\n<b>darum</b> = c'est pourquoi, voilà pourquoi\n<b>dann</b> = ensuite, alors\n<b>sonst</b> = sinon, autrement\nMein Bruder hat Urlaub. <b>Deshalb</b> <span style=\"color:#2563EB\">fährt</span> <span style=\"color:#16803C\">er</span> morgen nach Berlin.\nDu hast morgen eine Prüfung. <b>Deshalb</b> <span style=\"color:#2563EB\">musst</span> <span style=\"color:#16803C\">du</span> heute <span style=\"color:#D97706\">lernen</span>."
     }
   },
   "A trouver": {
@@ -49,45 +94,6 @@
       "Accusatif": "Il correspond à la fonction « Complément d'Objet Direct » en français.\n\nMein Vater hat einen Bruder.",
       "Datif": "Il correspond à la fonction « Complément d'Objet Indirect » en français.\n\nIch gebe meinem Bruder ein Geschenk.\n\nNoter qu'en allemand, si on se trouve en présence d'un COD et d'un COI, on place souvent le COI en premier suivi du COD.",
       "Génitif": "Il correspond à la fonction « Complément du nom » en français.\n\nDer Bruder meines Vaters ist mein Onkel.\n\nNoter qu'en allemand, l'utilisation du génitif implique d'ajouter « (e)s » aux noms communs masculins ou neutres comme à « Vaters » dans l'exemple."
-    },
-    "Adjectif substantivé": {
-      "Déclinaison forte": "Quand il n’y a PAS d’article ou quand il est précédé de :\netwas / nichts / viel / wenig / alles\nCes mots n’indiquent pas le genre → l’adjectif doit tout porter.\nN: -es | A: -es | D: -em | G: -en\n\nnichts Wichtiges (N/A) => Es geht um nichts Wichtiges.\netwas Neues (N/A)\nmit etwas Gutem (D)\nwegen nichts Besonderen (G)\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
-      "Déclinaison faible": "Quand l’adjectif substantivé est précédé de :\nder / die / das\ndieser / jeder / welcher, etc.\nL’article porte déjà l’information → l’adjectif est “faible”.\nN: -e | A: -e | D: -en | G: -en\n\ndas Gute\nder Alte\ndie Kranken\ndem Alten\nvon dem Guten\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
-      "Déclinaison mixte": "Après ein / eine, mein / dein, etc.\nL’article n’indique pas toujours le genre → l’adjectif complète.\nN: -es / -er| A: -es / -en | D: -en | G: -en\n\nein Gutes\neinen Alten\neinem Kranken\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé."
-    },
-    "Structure des phrases": {
-      "Catégorie 1 — Verbe à la fin": "<b>weil</b> = parce que\n<b>damit</b> = pour que, afin que\n<b>dass</b> = que\n<b>wenn</b> = quand, lorsque, si (condition)\n<b>ob</b> = si (question indirecte)\nIch bleibe zu Hause, <b>weil</b> <span style=\"color:#16803C\">mein Bruder</span> morgen nach Berlin <span style=\"color:#2563EB\">fährt</span>.\nIch weiß, <b>dass</b> <span style=\"color:#16803C\">du</span> heute länger <span style=\"color:#D97706\">arbeiten</span> <span style=\"color:#2563EB\">musst</span>.",
-      "Catégorie 2 — Ordre normal": "<b>denn</b> = car, parce que\n<b>aber</b> = mais\n<b>und</b> = et\n<b>oder</b> = ou\n<b>sondern</b> = mais plutôt (après une négation)\nIch bleibe zu Hause, <b>denn</b> <span style=\"color:#16803C\">mein Bruder</span> <span style=\"color:#2563EB\">fährt</span> morgen nach Berlin.\nIch gehe nach Hause, <b>aber</b> <span style=\"color:#16803C\">du</span> <span style=\"color:#2563EB\">musst</span> noch <span style=\"color:#D97706\">arbeiten</span>.",
-      "Catégorie 3 — Inversion": "<b>deshalb</b> = c'est pourquoi, donc\n<b>deswegen</b> = c'est pourquoi, pour cette raison\n<b>darum</b> = c'est pourquoi, voilà pourquoi\n<b>dann</b> = ensuite, alors\n<b>sonst</b> = sinon, autrement\nMein Bruder hat Urlaub. <b>Deshalb</b> <span style=\"color:#2563EB\">fährt</span> <span style=\"color:#16803C\">er</span> morgen nach Berlin.\nDu hast morgen eine Prüfung. <b>Deshalb</b> <span style=\"color:#2563EB\">musst</span> <span style=\"color:#16803C\">du</span> heute <span style=\"color:#D97706\">lernen</span>."
-    }
-  },
-  "Les déclinaisons": {
-    "Articles définis": {
-      "Global": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>der</th><th>die</th><th>das</th><th>die</th></tr>\n<tr><th>Nom</th><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Akk</th><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Dat</th><td>dem</td><td>der</td><td>dem</td><td>den (+n)</td></tr>\n<tr><th>Gen</th><td>des (+s)</td><td>der</td><td>des (+s)</td><td>der</td></tr>\n</table>"
-    },
-    "Pronoms personnels": {
-      "Global": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>er</th><th>sie</th><th>es</th><th>sie</th></tr>\n<tr><th>Nom</th><td>er</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Akk</th><td>ihn</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Dat</th><td>ihm</td><td>ihr</td><td>ihm</td><td>ihnen</td></tr>\n<tr><th>Gen</th><td>seiner</td><td>ihrer</td><td>seiner</td><td>ihrer</td></tr>\n</table>"
-    },
-    "Articles indéfinis": {
-      "Global": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>ein</th><th>eine</th><th>ein</th><th>Pluriel</th></tr>\n<tr><th>Nom</th><td>ein</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Akk</th><td>einen</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Dat</th><td>einem</td><td>einer</td><td>einem</td><td>—</td></tr>\n<tr><th>Gen</th><td>eines (+s)</td><td>einer</td><td>eines (+s)</td><td>—</td></tr>\n</table>"
-    }
-  },
-  "Les prépositions": {
-    "Récap": {
-      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Akk</th><th>Mixte</th><th>Dat</th></tr>\n<tr><td>bis</td><td>an</td><td>aus</td></tr>\n<tr><td>durch</td><td>auf</td><td>außer</td></tr>\n<tr><td>für</td><td>hinter</td><td>bei</td></tr>\n<tr><td>gegen</td><td>in</td><td>mit</td></tr>\n<tr><td>ohne</td><td>neben</td><td>nach</td></tr>\n<tr><td>um</td><td>über</td><td>seit</td></tr>\n<tr><td>entlang</td><td>unter</td><td>von</td></tr>\n<tr><td></td><td>vor</td><td>zu</td></tr>\n<tr><td></td><td>zwischen</td><td>gegenüber</td></tr>\n</table>"
-    },
-    "Prépositions + accusatif": {
-      "": "<b>bis</b> = jusqu'à\n<b>durch</b> = à travers, par\n<b>für</b> = pour\n<b>gegen</b> = contre, vers (heure)\n<b>ohne</b> = sans\n<b>um</b> = autour de, à (heure)\n<b>entlang</b> = le long de"
-    },
-    "Prépositions mixtes": {
-      "Les prépositions": "<b>an</b> = à, contre, au bord de\n<b>auf</b> = sur\n<b>hinter</b> = derrière\n<b>in</b> = dans, en\n<b>neben</b> = à côté de\n<b>über</b> = au-dessus de, sur (sujet)\n<b>unter</b> = sous, parmi\n<b>vor</b> = devant, avant\n<b>zwischen</b> = entre",
-      "Choix du cas": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
-    },
-    "Prépositions + datif": {
-      "": "<b>aus</b> = de, hors de (origine)\n<b>außer</b> = sauf, excepté\n<b>bei</b> = chez, auprès de, près de\n<b>mit</b> = avec\n<b>nach</b> = après, vers (destination)\n<b>seit</b> = depuis (durée)\n<b>von</b> = de, venant de\n<b>zu</b> = à, chez, vers\n<b>gegenüber</b> = en face de"
-    },
-    "Prépositions + génitif": {
-      "": "wegen, trotz"
     }
   }
 }
