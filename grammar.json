@@ -36,6 +36,11 @@
     "Articles définis": {
       "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>der</th><th>die</th><th>das</th><th>die</th></tr>\n<tr><th>Nom</th><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Akk</th><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Dat</th><td>dem</td><td>der</td><td>dem</td><td>den (+n)</td></tr>\n<tr><th>Gen</th><td>des (+s)</td><td>der</td><td>des (+s)</td><td>der</td></tr>\n</table>"
     },
+    "Adjectifs épithètes": {
+      "déclinaison faible": "Après der, die, das, ainsi que dieser, jeder, welcher, etc.\nCas\tMasculin\tFéminin\tNeutre\tPluriel\nNom\t-e\t-e\t-e\t-en\nAkk\t-en\t-e\t-e\t-en\nDat\t-en\t-en\t-en\t-en\nGen\t-en\t-en\t-en\t-en\n\nAstuce : après un article défini, l'adjectif prend presque toujours -en, sauf cinq cases en -e.",
+      "déclinaison mixte": "Après ein, kein, mein, dein, sein, ihr, unser, etc.\nCas\tMasculin\tFéminin\tNeutre\tPluriel*\nNom\t-er\t-e\t-es\t-en\nAkk\t-en\t-e\t-es\t-en\nDat\t-en\t-en\t-en\t-en\nGen\t-en\t-en\t-en\t-en\n\nAstuce : l'adjectif prend une terminaison forte lorsque le déterminant ne marque pas suffisamment le genre et le cas.",
+      "déclinaison forte": "Sans article, notamment après certaines indications de quantité sans terminaison.\nCas\tMasculin\tFéminin\tNeutre\tPluriel\nNom\t-er\t-e\t-es\t-e\nAkk\t-en\t-e\t-es\t-e\nDat\t-em\t-er\t-em\t-en\nGen\t-en\t-er\t-en\t-er"
+    },
     "Pronoms personnels": {
       "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>er</th><th>sie</th><th>es</th><th>sie</th></tr>\n<tr><th>Nom</th><td>er</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Akk</th><td>ihn</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Dat</th><td>ihm</td><td>ihr</td><td>ihm</td><td>ihnen</td></tr>\n<tr><th>Gen</th><td>seiner</td><td>ihrer</td><td>seiner</td><td>ihrer</td></tr>\n</table>"
     },
@@ -63,7 +68,7 @@
       "": "<b>aus</b> = de, hors de (origine)\n<b>außer</b> = sauf, excepté\n<b>bei</b> = chez, auprès de, près de\n<b>mit</b> = avec\n<b>nach</b> = après, vers (destination)\n<b>seit</b> = depuis (durée)\n<b>von</b> = de, venant de\n<b>zu</b> = à, chez, vers\n<b>gegenüber</b> = en face de"
     },
     "Prépositions + génitif": {
-      "": "wegen, trotz"
+      "": "wegen, trotz, während"
     }
   },
   "Structure des phrases": {
