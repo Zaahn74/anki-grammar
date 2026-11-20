@@ -1,21 +1,22 @@
 {
   "Conjugaison": {
     "Présent": {
-      "Structure de base": "radical + terminaison\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
-      "Verbes réguliers": "Aucun changement de radical, juste les terminaisons.\nich\t\t-e\ndu\t\t-st\ner / sie / es\t-t\nwir\t\t-en\nihr\t\t-t\nsie / Sie\t\t-en",
-      "Verbes irréguliers": "Changement de voyelle UNIQUEMENT aux personnes : du / er / sie / es. \na → ä\tfahren → fährst\ne → i\tgeben → gibst\ne → ie\tlesen → liest\nich / wir / ihr / sie = PAS de changement",
+      "Structure de base": "radical + terminaison\nich -e\ndu -st\ner / sie / es -t\nwir -en\nihr -t\nsie / Sie -en",
+      "Verbes réguliers": "Aucun changement de radical, juste les terminaisons.\nich -e\ndu -st\ner / sie / es -t\nwir -en\nihr -t\nsie / Sie -en",
+      "Verbes irréguliers": "Changement de voyelle UNIQUEMENT aux personnes : du / er / sie / es. \na → ä fahren → fährst\ne → i geben → gibst\ne → ie lesen → liest\nich / wir / ihr / sie = PAS de changement",
       "Suppression du -s  en fonction des terminaisons": "Suppression du -s à la 2ème personne du sg quand le radical se termine par :\n-s\n-ß\n-x\n-z\n👉 du = -t (pas -st)\n\ndu heißt\ndu tanzt\ndu sitzt",
       "Ajout d’un -e-": "Au présent (et à l'impératif), les verbes dont le radical se termine par -t, -d ou -m / -n précédé d’une autre consonne, prennent un -e- d’appui devant les terminaisons en -st et -t.\n\narbeiten → du arbeitest, er arbeitet, ihr arbeitet\nreden → du redest, er redet, ihr redet\natmen → du atmest, er atmet, ihr atmet\nöffnen → du öffnest, er öffnet, ihr öffnet\n\nRègle phonétique, pas orthographique.\nMême principe pour le prétérit mais pas tout à fait.",
       "Verbes en -eln et -ern": "Verbes en -eln : le -e- du radical tombe à ich => -eln → -le\nVerbes en -ern : réguliers, \naucun changement\n\nhandeln => ich handle, du handelst\nändern => ich ändere, du änderst",
       "Verbes à particule séparable": "le verbe se conjugue normalement, la particule va en fin de phrase\n\nabholen : ich hole dich ab",
       "Verbes à particule inséparable": "aucune séparation, conjugaison normale\n\nverstehen : ich verstehe",
       "Verbes totalement irréguliers (à apprendre par cœur)": "🔹 sein\nich bin\ndu bist\ner ist\nwir sind\nihr seid\nsie sind\n\n🔹 haben\nich habe\ndu hast\ner hat\nwir haben\nihr habt\nsie haben\n\n🔹 werden\nich werde\ndu wirst\ner wird\nwir werden\nihr werdet\nsie werden",
-      "Verbes de modalité": "irréguliers, sans -e- à ich / er\n\nkönnen\nich kann\ndu kannst\ner kann\nwir können"
+      "Verbes de modalité": "irréguliers, sans -e- à ich / er\n\nkönnen\nich kann\ndu kannst\ner kann\nwir können",
+      "Valeur et emploi du présent": "Le Präsens sert à parler d’un état, d’un événement ou d’une activité se déroulant dans le présent ou qui dure.\n\nYara wohnt in Deutschland.\n\nL’explication vient de « GrammaireEtc. », et l’exemple est une phrase déjà présente dans ce même onglet."
     },
     "Prétérit": {
-      "Verbes réguliers": "radical du prétérit + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\nlernen → ich lernte\nspielen → ich spielte\nmachen → ich machte",
-      "Verbes irréguliers": "Changement de voyelle à toutes les personnes. \nPas de terminaison avec ich / er.\nich\t\tØ\ndu\t\t-st\ner/sie/es\tØ\nwir\t\t-en\nihr\t\t-t\nsie/Sie\t\t-en\n\ngehen → ich ging\nsehen → ich sah\nkommen → ich kam\nschreiben → ich schrieb",
-      "Verbes mixtes": "Verbes faibles + changement de voyelle\nradical modifié + terminaison\nich\t\t-te\ndu\t\t-test\ner/sie/es\t-te\nwir\t\t-ten\nihr\t\t-tet\nsie/Sie\t\t-ten\n\ndenken → ich dachte\nbringen → ich brachte\nkennen → ich kannte\nwissen → ich wusste\nnennen → ich nannte",
+      "Verbes réguliers": "radical du prétérit + terminaison\nich -te\ndu -test\ner/sie/es -te\nwir -ten\nihr -tet\nsie/Sie -ten\n\nlernen → ich lernte\nspielen → ich spielte\nmachen → ich machte",
+      "Verbes irréguliers": "Changement de voyelle à toutes les personnes. \nPas de terminaison avec ich / er.\nich Ø\ndu -st\ner/sie/es Ø\nwir -en\nihr -t\nsie/Sie -en\n\ngehen → ich ging\nsehen → ich sah\nkommen → ich kam\nschreiben → ich schrieb",
+      "Verbes mixtes": "Verbes faibles + changement de voyelle\nradical modifié + terminaison\nich -te\ndu -test\ner/sie/es -te\nwir -ten\nihr -tet\nsie/Sie -ten\n\ndenken → ich dachte\nbringen → ich brachte\nkennen → ich kannte\nwissen → ich wusste\nnennen → ich nannte",
       "Ajout d’un -e-": "Au prétérit, pour les verbes faibles dont le radical se termine par -t, -d ou -m / -n précédé d’une autre consonne, on insère un -e- entre le radical et les terminaisons du prétérit (pour rappel : -te, -test, -te, -ten, -tet, -ten).\n\narbeiten → ich arbeitete\nenden → ich endete\natmen → ich atmete",
       "Verbes à particule séparable": "Le préfixe va à la fin de la phrase.\n\nankommen → ich kam an\nabholen → ich holte ab",
       "Verbes à particule inséparable": "comportement normal\n\nverstehen → ich verstand\nbesuchen → ich besuchte"
@@ -29,76 +30,102 @@
       "Participe passé des verbes à particule séparable": "particule + ge- + radical + (t / en)\n\nabholen → abgeholt\nanfangen → angefangen\nmitkommen → mitgekommen\n\nge- se place entre la particule et le verbe.",
       "Participe passé des verbes à particule inséparable": "PAS de ge-\n\nbesuchen → besucht\nverstehen → verstanden\nerzählen → erzählt\n\nPréfixes inséparables : be-, ver-, er-, ent-, zer-, emp-, miss-",
       "Participe passé des verbes en -ieren": "PAS de ge- + radical + -t\n\nstudieren → studiert\ntelefonieren → telefoniert\nreparieren → repariert\n\nToujours -t, jamais ge-.",
-      "Choix de l’auxiliaire": "1. Est-ce que le sujet change de lieu (déplacement) ou d’état ? Si oui → sein.\n2. Y a-t-il un objet direct ? Si oui → haben\n3. Si aucun des deux → souvent haben (activité).\n\nfahren + sein (déplacement d’un point A à un point B)\nex : Ich bin nach Berlin gefahren. Je suis allé à Berlin\n\nfahren + haben (activité / conduite)\nex : Er hat schnell gefahren. Il a roulé vite.\n\nfahren + objet direct → toujours haben\nex : Sie hat den Bus gefahren. Elle conduisait le bus."
+      "Choix de l’auxiliaire": "1. Est-ce que le sujet change de lieu (déplacement) ou d’état ? Si oui → sein.\n2. Y a-t-il un objet direct ? Si oui → haben\n3. Si aucun des deux → souvent haben (activité).\n\nfahren + sein (déplacement d’un point A à un point B)\nex : Ich bin nach Berlin gefahren. Je suis allé à Berlin\n\nfahren + haben (activité / conduite)\nex : Er hat schnell gefahren. Il a roulé vite.\n\nfahren + objet direct → toujours haben\nex : Sie hat den Bus gefahren. Elle conduisait le bus.",
+      "Double infinitif : verbes de perception": "Dans certaines constructions au Perfekt avec un verbe de perception suivi d’un autre infinitif, le verbe de perception reste à l’infinitif au lieu de prendre la forme du participe passé.\n\nIch habe Musik gehört.\nIch habe ihn singen hören.\n\nLa note d’origine cite sehen, hören, fühlen, spüren, bemerken et lassen. Cette liste doit être vérifiée : « lassen » n’est pas un verbe de perception."
     }
   },
   "Les déclinaisons": {
     "Articles définis": {
-      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>der</th><th>die</th><th>das</th><th>die</th></tr>\n<tr><th>Nom</th><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Akk</th><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Dat</th><td>dem</td><td>der</td><td>dem</td><td>den (+n)</td></tr>\n<tr><th>Gen</th><td>des (+s)</td><td>der</td><td>des (+s)</td><td>der</td></tr>\n</table>"
+      "Tableau des cas": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>der</th><th>die</th><th>das</th><th>die</th></tr>\n<tr><th>Nom</th><td>der</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Akk</th><td>den</td><td>die</td><td>das</td><td>die</td></tr>\n<tr><th>Dat</th><td>dem</td><td>der</td><td>dem</td><td>den (+n)</td></tr>\n<tr><th>Gen</th><td>des (+s)</td><td>der</td><td>des (+s)</td><td>der</td></tr>\n</table>"
     },
     "Adjectifs épithètes": {
-      "déclinaison faible": "Après der, die, das, ainsi que dieser, jeder, welcher, etc.\nCas\tMasculin\tFéminin\tNeutre\tPluriel\nNom\t-e\t-e\t-e\t-en\nAkk\t-en\t-e\t-e\t-en\nDat\t-en\t-en\t-en\t-en\nGen\t-en\t-en\t-en\t-en\n\nAstuce : après un article défini, l'adjectif prend presque toujours -en, sauf cinq cases en -e.",
-      "déclinaison mixte": "Après ein, kein, mein, dein, sein, ihr, unser, etc.\nCas\tMasculin\tFéminin\tNeutre\tPluriel*\nNom\t-er\t-e\t-es\t-en\nAkk\t-en\t-e\t-es\t-en\nDat\t-en\t-en\t-en\t-en\nGen\t-en\t-en\t-en\t-en\n\nAstuce : l'adjectif prend une terminaison forte lorsque le déterminant ne marque pas suffisamment le genre et le cas.",
-      "déclinaison forte": "Sans article, notamment après certaines indications de quantité sans terminaison.\nCas\tMasculin\tFéminin\tNeutre\tPluriel\nNom\t-er\t-e\t-es\t-e\nAkk\t-en\t-e\t-es\t-e\nDat\t-em\t-er\t-em\t-en\nGen\t-en\t-er\t-en\t-er"
-    },
-    "Pronoms personnels": {
-      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>er</th><th>sie</th><th>es</th><th>sie</th></tr>\n<tr><th>Nom</th><td>er</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Akk</th><td>ihn</td><td>sie</td><td>es</td><td>sie</td></tr>\n<tr><th>Dat</th><td>ihm</td><td>ihr</td><td>ihm</td><td>ihnen</td></tr>\n<tr><th>Gen</th><td>seiner</td><td>ihrer</td><td>seiner</td><td>ihrer</td></tr>\n</table>"
+      "déclinaison faible": "Après der, die, das, ainsi que dieser, jeder, welcher, etc.\nCas Masculin Féminin Neutre Pluriel\nNom -e -e -e -en\nAkk -en -e -e -en\nDat -en -en -en -en\nGen -en -en -en -en\n\nAstuce : après un article défini, l'adjectif prend presque toujours -en, sauf cinq cases en -e.",
+      "déclinaison mixte": "Après ein, kein, mein, dein, sein, ihr, unser, etc.\nCas Masculin Féminin Neutre Pluriel*\nNom -er -e -es -en\nAkk -en -e -es -en\nDat -en -en -en -en\nGen -en -en -en -en\n\nAstuce : l'adjectif prend une terminaison forte lorsque le déterminant ne marque pas suffisamment le genre et le cas.",
+      "déclinaison forte": "Sans article, notamment après certaines indications de quantité sans terminaison.\nCas Masculin Féminin Neutre Pluriel\nNom -er -e -es -e\nAkk -en -e -es -e\nDat -em -er -em -en\nGen -en -er -en -er"
     },
     "Articles indéfinis": {
-      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>ein</th><th>eine</th><th>ein</th><th>Pluriel</th></tr>\n<tr><th>Nom</th><td>ein</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Akk</th><td>einen</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Dat</th><td>einem</td><td>einer</td><td>einem</td><td>—</td></tr>\n<tr><th>Gen</th><td>eines (+s)</td><td>einer</td><td>eines (+s)</td><td>—</td></tr>\n</table>"
+      "Tableau des cas": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th></th><th>ein</th><th>eine</th><th>ein</th><th>Pluriel</th></tr>\n<tr><th>Nom</th><td>ein</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Akk</th><td>einen</td><td>eine</td><td>ein</td><td>—</td></tr>\n<tr><th>Dat</th><td>einem</td><td>einer</td><td>einem</td><td>—</td></tr>\n<tr><th>Gen</th><td>eines (+s)</td><td>einer</td><td>eines (+s)</td><td>—</td></tr>\n</table>"
     },
     "Adjectif substantivé": {
       "Déclinaison forte": "Quand il n’y a PAS d’article ou quand il est précédé de :\netwas / nichts / viel / wenig / alles\nCes mots n’indiquent pas le genre → l’adjectif doit tout porter.\nN: -es | A: -es | D: -em | G: -en\n\nnichts Wichtiges (N/A) => Es geht um nichts Wichtiges.\netwas Neues (N/A)\nmit etwas Gutem (D)\nwegen nichts Besonderen (G)\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
       "Déclinaison faible": "Quand l’adjectif substantivé est précédé de :\nder / die / das\ndieser / jeder / welcher, etc.\nL’article porte déjà l’information → l’adjectif est “faible”.\nN: -e | A: -e | D: -en | G: -en\n\ndas Gute\nder Alte\ndie Kranken\ndem Alten\nvon dem Guten\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé.",
       "Déclinaison mixte": "Après ein / eine, mein / dein, etc.\nL’article n’indique pas toujours le genre → l’adjectif complète.\nN: -es / -er| A: -es / -en | D: -en | G: -en\n\nein Gutes\neinen Alten\neinem Kranken\n\nUn adjectif substantivé se décline exactement comme un adjectif normal. \nLa seule différence : il prend une majuscule et il n’y a pas de nom derrière.\nLe type de déclinaison (forte, faible, mixte) dépend de ce qui précède l’adjectif substantivé."
-    }
-  },
-  "Les prépositions": {
-    "Récap": {
-      "": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Akk</th><th>Mixte</th><th>Dat</th></tr>\n<tr><td>bis</td><td>an</td><td>aus</td></tr>\n<tr><td>durch</td><td>auf</td><td>außer</td></tr>\n<tr><td>für</td><td>hinter</td><td>bei</td></tr>\n<tr><td>gegen</td><td>in</td><td>mit</td></tr>\n<tr><td>ohne</td><td>neben</td><td>nach</td></tr>\n<tr><td>um</td><td>über</td><td>seit</td></tr>\n<tr><td>entlang</td><td>unter</td><td>von</td></tr>\n<tr><td></td><td>vor</td><td>zu</td></tr>\n<tr><td></td><td>zwischen</td><td>gegenüber</td></tr>\n</table>"
-    },
-    "Prépositions + accusatif": {
-      "": "<b>bis</b> = jusqu'à\n<b>durch</b> = à travers, par\n<b>für</b> = pour\n<b>gegen</b> = contre, vers (heure)\n<b>ohne</b> = sans\n<b>um</b> = autour de, à (heure)\n<b>entlang</b> = le long de"
-    },
-    "Prépositions mixtes": {
-      "Les prépositions": "<b>an</b> = à, contre, au bord de\n<b>auf</b> = sur\n<b>hinter</b> = derrière\n<b>in</b> = dans, en\n<b>neben</b> = à côté de\n<b>über</b> = au-dessus de, sur (sujet)\n<b>unter</b> = sous, parmi\n<b>vor</b> = devant, avant\n<b>zwischen</b> = entre",
-      "Choix du cas": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
-    },
-    "Prépositions + datif": {
-      "": "<b>aus</b> = de, hors de (origine)\n<b>außer</b> = sauf, excepté\n<b>bei</b> = chez, auprès de, près de\n<b>mit</b> = avec\n<b>nach</b> = après, vers (destination)\n<b>seit</b> = depuis (durée)\n<b>von</b> = de, venant de\n<b>zu</b> = à, chez, vers\n<b>gegenüber</b> = en face de"
-    },
-    "Prépositions + génitif": {
-      "": "wegen, trotz, während"
-    }
-  },
-  "Structure des phrases": {
-    "Catégorie 1 — Verbe à la fin": {
-      "": "<b>weil</b> = parce que\n<b>damit</b> = pour que, afin que\n<b>dass</b> = que\n<b>wenn</b> = quand, lorsque, si (condition)\n<b>ob</b> = si (question indirecte)\nIch bleibe zu Hause, <b>weil</b> <span style=\"color:#16803C\">mein Bruder</span> morgen nach Berlin <span style=\"color:#2563EB\">fährt</span>.\nIch weiß, <b>dass</b> <span style=\"color:#16803C\">du</span> heute länger <span style=\"color:#D97706\">arbeiten</span> <span style=\"color:#2563EB\">musst</span>."
-    },
-    "Catégorie 2 — Ordre normal": {
-      "": "<b>denn</b> = car, parce que\n<b>aber</b> = mais\n<b>und</b> = et\n<b>oder</b> = ou\n<b>sondern</b> = mais plutôt (après une négation)\nIch bleibe zu Hause, <b>denn</b> <span style=\"color:#16803C\">mein Bruder</span> <span style=\"color:#2563EB\">fährt</span> morgen nach Berlin.\nIch gehe nach Hause, <b>aber</b> <span style=\"color:#16803C\">du</span> <span style=\"color:#2563EB\">musst</span> noch <span style=\"color:#D97706\">arbeiten</span>."
-    },
-    "Catégorie 3 — Inversion": {
-      "": "<b>deshalb</b> = c'est pourquoi, donc\n<b>deswegen</b> = c'est pourquoi, pour cette raison\n<b>darum</b> = c'est pourquoi, voilà pourquoi\n<b>dann</b> = ensuite, alors\n<b>sonst</b> = sinon, autrement\nMein Bruder hat Urlaub. <b>Deshalb</b> <span style=\"color:#2563EB\">fährt</span> <span style=\"color:#16803C\">er</span> morgen nach Berlin.\nDu hast morgen eine Prüfung. <b>Deshalb</b> <span style=\"color:#2563EB\">musst</span> <span style=\"color:#16803C\">du</span> heute <span style=\"color:#D97706\">lernen</span>."
-    }
-  },
-  "A trouver": {
-    "Pronoms": {
-      "Pronoms réfléchis": "ich\t\tmich\ndu\t\tdich\ner/sie/es\tsich\nwir\t\tuns\nihr\t\teuch\nsie/Sie\t\tsich\n\nich freue mich\ndu verletzst dich"
-    },
-    "Nombre ordinaux": {
-      "Règle générale de composition": "- jusqu’à 19 : nombre + -te\n- à partir de 20 : nombre + -ste\n\nvier → vierte\ndreißig → dreißigste",
-      "Exceptions": "- eins → erste\n- drei → dritte\n- sieben → siebte (perte du -en)\n- acht → achte (perte du -t)",
-      "Composition des grands nombres": "Pour former un nombre ordinal composé, on ne transforme que le DERNIER élément du nombre cardinal. Tout le reste reste inchangé.\n\neinundzwanzig → einundzwanzigste",
-      "Déclinaison des ordinaux": "Les ordinaux se déclinent comme des adjectifs\n\nam ersten Mai",
-      "Date du jour": "Heute ist der + ordinal (NOMINATIF)\n\nHeute ist der achtundzwanzigste Dezember.",
-      "Date d'un rendez-vous": "am + ordinal +n (DATIF)\n\nDer Termin ist am dritten Januar."
     },
     "Les cas": {
       "Nominatif": "Il correspond à la fonction « sujet » et « attribut du sujet »\n\nDer Mann ist groß.\nDie Dame ist meine Schwester.",
       "Accusatif": "Il correspond à la fonction « Complément d'Objet Direct » en français.\n\nMein Vater hat einen Bruder.",
       "Datif": "Il correspond à la fonction « Complément d'Objet Indirect » en français.\n\nIch gebe meinem Bruder ein Geschenk.\n\nNoter qu'en allemand, si on se trouve en présence d'un COD et d'un COI, on place souvent le COI en premier suivi du COD.",
       "Génitif": "Il correspond à la fonction « Complément du nom » en français.\n\nDer Bruder meines Vaters ist mein Onkel.\n\nNoter qu'en allemand, l'utilisation du génitif implique d'ajouter « (e)s » aux noms communs masculins ou neutres comme à « Vaters » dans l'exemple."
+    }
+  },
+  "Les pronoms": {
+    "Pronoms personnels": {
+      "Déclinaison": "Les pronoms personnels remplacent un nom ou désignent une personne. Leur forme dépend de leur fonction : nominatif (sujet), accusatif (complément direct), datif (complément indirect ou régi par un verbe ou une préposition) et génitif (rare).<br><br>\n<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\" border=\"1\" cellpadding=\"4\">\n<tr><th>Personne</th><th>Nom.</th><th>Akk.</th><th>Dat.</th><th>Gen. (rare)</th></tr>\n<tr><td>je</td><td>ich</td><td>mich</td><td>mir</td><td>meiner</td></tr>\n<tr><td>tu</td><td>du</td><td>dich</td><td>dir</td><td>deiner</td></tr>\n<tr><td>il</td><td>er</td><td>ihn</td><td>ihm</td><td>seiner</td></tr>\n<tr><td>elle</td><td>sie</td><td>sie</td><td>ihr</td><td>ihrer</td></tr>\n<tr><td>neutre</td><td>es</td><td>es</td><td>ihm</td><td>seiner</td></tr>\n<tr><td>nous</td><td>wir</td><td>uns</td><td>uns</td><td>unser</td></tr>\n<tr><td>vous (pl.)</td><td>ihr</td><td>euch</td><td>euch</td><td>euer</td></tr>\n<tr><td>ils/elles</td><td>sie</td><td>sie</td><td>ihnen</td><td>ihrer</td></tr>\n<tr><td>vous (pol.)</td><td>Sie</td><td>Sie</td><td>Ihnen</td><td>Ihrer</td></tr>\n</table>\n\nNom. : <b>Er</b> liest. — <b>Il</b> lit.<br>Akk. : Ich sehe <b>ihn</b>. — Je <b>le</b> vois.<br>Dat. : Ich helfe <b>ihm</b>. — Je <b>lui</b> apporte mon aide.<br>Gen. (soutenu) : Wir gedenken <b>ihrer</b>. — Nous nous souvenons <b>d'elle</b> (ou <b>d'eux / d'elles</b>, selon le contexte).\n\nUn pronom personnel peut désigner une autre personne que le sujet : « Paul wäscht ihn » signifie que Paul lave un autre homme. Les formes du génitif sont rares en allemand moderne. Les pronoms personnels ne doivent pas être confondus avec les déterminants possessifs (mein, dein, sein, etc.)."
+    },
+    "Pronoms réfléchis": {
+      "Déclinaison": "Un pronom réfléchi renvoie au sujet de la même proposition : celui qui fait l'action est aussi la personne concernée par l'action. <b>Il n'a pas de nominatif</b> : la colonne correspondante est donc volontairement grisée avec un tiret. Les cas usuels sont l'accusatif et le datif ; le génitif est très rare.<br><br>\n<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\" border=\"1\" cellpadding=\"4\">\n<tr><th>Sujet</th><th>Nom.</th><th>Akk.</th><th>Dat.</th><th>Gen. (très rare)</th></tr>\n<tr><td>ich</td><td style=\"background-color:#e9ecef;color:#6c757d\">—</td><td>mich</td><td>mir</td><td>meiner</td></tr>\n<tr><td>du</td><td style=\"background-color:#e9ecef;color:#6c757d\">—</td><td>dich</td><td>dir</td><td>deiner</td></tr>\n<tr><td>er / sie / es</td><td style=\"background-color:#e9ecef;color:#6c757d\">—</td><td>sich</td><td>sich</td><td>seiner / ihrer / seiner</td></tr>\n<tr><td>wir</td><td style=\"background-color:#e9ecef;color:#6c757d\">—</td><td>uns</td><td>uns</td><td>unser</td></tr>\n<tr><td>ihr</td><td style=\"background-color:#e9ecef;color:#6c757d\">—</td><td>euch</td><td>euch</td><td>euer</td></tr>\n<tr><td>sie / Sie</td><td style=\"background-color:#e9ecef;color:#6c757d\">—</td><td>sich</td><td>sich</td><td>ihrer / Ihrer</td></tr>\n</table>\n\n<b>Personnel / réfléchi (accusatif)</b><br>Paul wäscht <b>ihn</b>. — Paul <b>le</b> lave (un autre homme).<br>Paul wäscht <b>sich</b>. — Paul <b>se</b> lave (lui-même).<br><br><b>Personnel / réfléchi (datif)</b><br>Paul kauft <b>ihm</b> ein Buch. — Paul <b>lui</b> achète un livre (à un autre homme).<br>Paul kauft <b>sich</b> ein Buch. — Paul <b>s'</b>achète un livre (pour lui-même).<br><br><b>Accusatif / datif réfléchi</b><br>Ich wasche <b>mich</b>. — Je <b>me</b> lave.<br>Ich wasche <b>mir</b> die Hände. — Je <b>me</b> lave les mains.\n\nÀ la 1re et à la 2e personne, les formes réfléchies (mich/mir, dich/dir, uns, euch) sont identiques à celles des pronoms personnels : c'est leur lien avec le sujet qui fait la différence. À la 3e personne, le réfléchi utilise « sich » à l'accusatif et au datif. « Ich wasche mich » : mich = accusatif. « Ich wasche mir die Hände » : mir = datif, die Hände = accusatif. Aucun nominatif réfléchi n'existe ; le tiret ne signifie pas une information manquante."
+    }
+  },
+  "Les prépositions": {
+    "Classement par cas": {
+      "Tableau récapitulatif": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Akk</th><th>Mixte</th><th>Dat</th></tr>\n<tr><td>bis</td><td>an</td><td>aus</td></tr>\n<tr><td>durch</td><td>auf</td><td>außer</td></tr>\n<tr><td>für</td><td>hinter</td><td>bei</td></tr>\n<tr><td>gegen</td><td>in</td><td>mit</td></tr>\n<tr><td>ohne</td><td>neben</td><td>nach</td></tr>\n<tr><td>um</td><td>über</td><td>seit</td></tr>\n<tr><td>entlang</td><td>unter</td><td>von</td></tr>\n<tr><td></td><td>vor</td><td>zu</td></tr>\n<tr><td></td><td>zwischen</td><td>gegenüber</td></tr>\n</table>",
+      "Accusatif": "<b>bis</b> = jusqu'à\n<b>durch</b> = à travers, par\n<b>für</b> = pour\n<b>gegen</b> = contre, vers (heure)\n<b>ohne</b> = sans\n<b>um</b> = autour de, à (heure)\n<b>entlang</b> = le long de",
+      "Prépositions mixtes": "<b>an</b> = à, contre, au bord de\n<b>auf</b> = sur\n<b>hinter</b> = derrière\n<b>in</b> = dans, en\n<b>neben</b> = à côté de\n<b>über</b> = au-dessus de, sur (sujet)\n<b>unter</b> = sous, parmi\n<b>vor</b> = devant, avant\n<b>zwischen</b> = entre",
+      "Datif": "<b>aus</b> = de, hors de (origine)\n<b>außer</b> = sauf, excepté\n<b>bei</b> = chez, auprès de, près de\n<b>mit</b> = avec\n<b>nach</b> = après, vers (destination)\n<b>seit</b> = depuis (durée)\n<b>von</b> = de, venant de\n<b>zu</b> = à, chez, vers\n<b>gegenüber</b> = en face de",
+      "Génitif": "wegen, trotz, während"
+    },
+    "Prépositions mixtes": {
+      "Choix du cas": "Wo ? in + DATIF (position)\nWohin ? in + ACCUSATIF (mouvement, direction)\nWann ? In + DATIF (temps)\n\n1. Ich bin in der Schule. \n2. Ich gehe in die Schule. \n3. Das Buch ist in der Tasche. \n4. Ich komme in einer Woche."
+    },
+    "Prépositions de lieu": {
+      "Provenance : aus + datif": "Pour répondre à « Woher kommst du ? » : aus + nom de ville, pays ou région.\n« aus » gouverne le datif. Les villes et la plupart des pays sans article restent sans article ; d’autres pays prennent l’article au datif.\n<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Lieu</th><th>Article au datif</th><th>Construction</th><th>Exemple</th></tr>\n<tr><td>Ville</td><td>—</td><td>aus + ville</td><td>aus Paris</td></tr>\n<tr><td>Pays sans article</td><td>—</td><td>aus + pays</td><td>aus Spanien</td></tr>\n<tr><td>Pays masculin</td><td>dem</td><td>aus dem + pays</td><td>aus dem Irak</td></tr>\n<tr><td>Pays féminin</td><td>der</td><td>aus der + pays</td><td>aus der Schweiz</td></tr>\n<tr><td>Pays pluriel</td><td>den</td><td>aus den + pays</td><td>aus den USA</td></tr>\n</table>\n\nYara kommt aus Spanien.\n\nLa note d’origine indique que pour certains archipels, « aus den » et « von den » sont tous deux possibles.",
+      "Localisation : in / an + datif": "Pour répondre à « Wo wohnst du ? » : in / an + ville, rue ou place.\nPour une localisation (Wo ?), « in » et « an » sont suivis du datif.\n<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Type de lieu</th><th>Préposition</th><th>Exemple</th></tr>\n<tr><td>Ville</td><td>in</td><td>in Berlin</td></tr>\n<tr><td>Rue en -straße</td><td>in</td><td>in der … Straße</td></tr>\n<tr><td>Rue en -gasse</td><td>in</td><td>in der … Gasse</td></tr>\n<tr><td>Rue en -allee</td><td>in</td><td>in der … Allee</td></tr>\n<tr><td>Rue en -weg</td><td>in</td><td>im … Weg</td></tr>\n<tr><td>Place (Platz)</td><td>an</td><td>am … Platz</td></tr>\n</table>\n\nYara wohnt in Deutschland.\nYara wohnt in der Adalbert-Stifter-Straße 43.\n\nPour une direction (Wohin ?), revoir la règle « Prépositions mixtes → Choix du cas ». L’étiquette « Rue en -straße » est déduite de l’exemple de la source."
+    }
+  },
+  "Structure des phrases": {
+    "Conjonctions et connecteurs": {
+      "Subordonnants : verbe à la fin": "<b>weil</b> = parce que\n<b>damit</b> = pour que, afin que\n<b>dass</b> = que\n<b>wenn</b> = quand, lorsque, si (condition)\n<b>ob</b> = si (question indirecte)\nIch bleibe zu Hause, <b>weil</b> <span style=\"color:#16803C\">mein Bruder</span> morgen nach Berlin <span style=\"color:#2563EB\">fährt</span>.\nIch weiß, <b>dass</b> <span style=\"color:#16803C\">du</span> heute länger <span style=\"color:#D97706\">arbeiten</span> <span style=\"color:#2563EB\">musst</span>.",
+      "Coordonnants : ordre normal": "<b>denn</b> = car, parce que\n<b>aber</b> = mais\n<b>und</b> = et\n<b>oder</b> = ou\n<b>sondern</b> = mais plutôt (après une négation)\nIch bleibe zu Hause, <b>denn</b> <span style=\"color:#16803C\">mein Bruder</span> <span style=\"color:#2563EB\">fährt</span> morgen nach Berlin.\nIch gehe nach Hause, <b>aber</b> <span style=\"color:#16803C\">du</span> <span style=\"color:#2563EB\">musst</span> noch <span style=\"color:#D97706\">arbeiten</span>.",
+      "Adverbes de liaison : inversion": "<b>deshalb</b> = c'est pourquoi, donc\n<b>deswegen</b> = c'est pourquoi, pour cette raison\n<b>darum</b> = c'est pourquoi, voilà pourquoi\n<b>dann</b> = ensuite, alors\n<b>sonst</b> = sinon, autrement\nMein Bruder hat Urlaub. <b>Deshalb</b> <span style=\"color:#2563EB\">fährt</span> <span style=\"color:#16803C\">er</span> morgen nach Berlin.\nDu hast morgen eine Prüfung. <b>Deshalb</b> <span style=\"color:#2563EB\">musst</span> <span style=\"color:#16803C\">du</span> heute <span style=\"color:#D97706\">lernen</span>."
+    },
+    "Types de phrases": {
+      "Phrase déclarative (Aussagesatz)": "Une phrase déclarative sert à énoncer des faits, informer ou décrire.\nOrdre habituel : Sujet – Verbe conjugué – Compléments.\nSi un complément occupe la première position : Complément – Verbe conjugué – Sujet – Reste de la phrase.\n\nParis liegt in Frankreich.\nIn Frankreich liegt Paris.\n\nLa règle est tirée de « GrammaireEtc. ».",
+      "Question ouverte (W-Frage)": "Les questions ouvertes ne se répondent pas uniquement par oui ou non.\nOrdre : Mot interrogatif – Verbe conjugué – Sujet – Compléments.\n\nWo wohnst du?\nWoher kommst du?\n\nÉgalement appelée « Ergänzungsfrage » dans les notes. Les exemples proviennent de « Autres ».",
+      "Question fermée (Satzfrage)": "Question à laquelle on peut répondre par oui ou non.\nOrdre : Verbe conjugué – Sujet – Compléments.\n\nLiegt Paris in Frankreich?"
+    }
+  },
+  "Les nombres": {
+    "Nombres ordinaux": {
+      "Règle générale de composition": "- jusqu’à 19 : nombre + -te\n- à partir de 20 : nombre + -ste\n\nvier → vierte\ndreißig → dreißigste",
+      "Exceptions": "- eins → erste\n- drei → dritte\n- sieben → siebte (perte du -en)\n- acht → achte (perte du -t)",
+      "Composition des grands nombres": "Pour former un nombre ordinal composé, on ne transforme que le DERNIER élément du nombre cardinal. Tout le reste reste inchangé.\n\neinundzwanzig → einundzwanzigste",
+      "Déclinaison des ordinaux": "Les ordinaux se déclinent comme des adjectifs\n\nam ersten Mai",
+      "Date du jour": "Heute ist der + ordinal (NOMINATIF)\n\nHeute ist der achtundzwanzigste Dezember.",
+      "Date d’un rendez-vous": "am + ordinal +n (DATIF)\n\nDer Termin ist am dritten Januar."
+    }
+  },
+  "Les noms": {
+    "Pluriel": {
+      "Huit formations courantes": "Principaux procédés de formation du pluriel :\n1. Umlaut seul\n2. Umlaut + -e\n3. Ajout de -e\n4. Ajout de -er\n5. Umlaut + -er\n6. Ajout de -n\n7. Ajout de -en\n8. Aucun changement\n\nder Bruder → die Brüder\ndie Hand → die Hände\nder Hund → die Hunde\ndas Kind → die Kinder\ndas Rad → die Räder\ndas Auge → die Augen\ndie Wohnung → die Wohnungen\ndas Zimmer → die Zimmer\n\nCe sont des modèles de formation, pas une méthode fiable pour deviner tous les pluriels. « Wohnngen » a été corrigé en « Wohnungen » par rapport à la source.",
+      "Noms masculins": "Les notes d’origine indiquent que beaucoup de noms masculins forment le pluriel avec -e (parfois avec Umlaut).\nLes masculins en -el, -er et -en restent souvent inchangés ou ne prennent qu’un Umlaut.\n\nder Fuß → die Füße\nder Fernseher → die Fernseher\n\nTendances générales : apprendre le pluriel de chaque nom avec son article.",
+      "Noms neutres": "Les notes d’origine recensent :\n• des pluriels en -er ou avec Umlaut + -er ;\n• -e pour certains noms terminés en -teil ou -zeug ;\n• -se pour les noms terminés en -nis (forme à contrôler au cas par cas).\n\ndas Buch → die Bücher\ndas Spielzeug → die Spielzeuge\n\nLa source ne fournit pas d’exemple neutre en -nis. Les indications sont des tendances, non des règles absolues.",
+      "Noms féminins": "Les notes d’origine indiquent que les féminins prennent fréquemment -n ou -en au pluriel.\nElles mentionnent aussi -e pour les mots en -sal et -se pour les mots en -nis.\n\ndie Frau → die Frauen\ndie Kenntnis → die Kenntnisse\n\nLa terminaison de « Kenntnisse » est conservée telle qu’indiquée dans la source."
+    }
+  },
+  "Les adjectifs": {
+    "Comparatif": {
+      "Supériorité": "Adjectif au comparatif (-er) + als. Les deux éléments comparés conservent le même cas dans la construction de comparaison décrite.\n\nEr ist kleiner als sein Bruder.\n\nRappel de la note de comparaison : « Les deux éléments comparés sont au même cas ! »",
+      "Infériorité": "weniger + adjectif + als\n\nEr ist weniger groß als sie.",
+      "Égalité": "so + adjectif + wie\n\nFrankfurt ist so groß wie München.",
+      "Inégalité": "nicht so + adjectif + wie\n\nEr ist nicht so groß wie sein Bruder."
+    },
+    "Superlatif": {
+      "Emploi attribut ou adverbial": "am + forme de l’adjectif au superlatif en -sten\n\nIn der Savanne ist der Elefant am dicksten.\nDans la savane, l’éléphant est le plus gros.\n\nL’exemple français figurait dans la source en colonne K.",
+      "Emploi épithète": "Le superlatif épithète utilise la forme en -st- suivie des terminaisons de déclinaison de l’adjectif.\n\nJulia ist die fleißigste Schülerin ihrer Klasse.\nJulia est l’élève la plus studieuse de sa classe.\n\nL’exemple français figurait dans la source en colonne K."
+    },
+    "Comparatif et superlatif": {
+      "Adjectifs recensés avec Umlaut": "Liste tirée de l’ancien onglet « Autres » :\nalt, arg, hart, kalt, krank, lang, nah, scharf, schwarz, stark, warm, grob, groß, hoch, dumm, jung, klug, kurz, schwach.\n\nhoch → höher → am höchsten\n\nÀ vérifier mot par mot avant de mémoriser : cette liste est recopiée de la source et ne prouve pas que toutes les formes prennent systématiquement un Umlaut.",
+      "Formes irrégulières": "<table style=\"width:100%;border-collapse:collapse;text-align:center;font-size:0.9em\">\n<tr><th>Adjectif</th><th>Comparatif</th><th>Superlatif épithète</th><th>Superlatif attribut / adverbial</th></tr>\n<tr><td>gut</td><td>besser</td><td>best-</td><td>am besten</td></tr>\n<tr><td>viel</td><td>mehr</td><td>—</td><td>am meisten</td></tr>\n<tr><td>gern</td><td>lieber</td><td>—</td><td>am liebsten</td></tr>\n<tr><td>hoch</td><td>höher</td><td>höchst-</td><td>am höchsten</td></tr>\n<tr><td>nah</td><td>näher</td><td>nächst-</td><td>am nächsten</td></tr>\n</table>\n\ngut → besser → am besten\ngern → lieber → am liebsten\n\nLes cases « — » ne sont pas renseignées dans l’ancien tableau ; aucune forme n’a été inventée pour les compléter."
     }
   }
 }
